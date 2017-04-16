@@ -1,5 +1,9 @@
 # Awesome NLP Resources for Hungarian [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/oroszgy/awesome-hungarian-nlp)
 
+> A curated list of *free* resources dedicated to Hungarian Natural Language Processing
+>
+> Maintainers - [György Orosz](https://github.com/oroszgy)
+
 ## Table of contents
 
 1. [Tools](#1.-tools)
