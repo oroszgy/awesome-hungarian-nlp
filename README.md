@@ -42,7 +42,7 @@
 - [magyarlanc](http://rgai.inf.u-szeged.hu/magyarlanc) A toolkit for the basic linguistic processing of Hungarian
 - [spaCy](https://github.com/explosion/spaCy) Industrial-strength Natural Language Processing (NLP) with Python and Cython  
 - [huNLP](https://github.com/oroszgy/hunlp) Unified Java and REST API for magyarlanc and szegedNER
-- [hunlp-GATE](https://github.com/dlt-rilmta/hunlp-GATE) Lang_Hungarian - a GATE plugin containing Hungarian NLP tools as GATE processing resources
+- [hunlp-GATE](https://github.com/dlt-rilmta/hunlp-GATE) a GATE plugin containing Hungarian NLP tools as GATE processing resources
 - [Trendminer Hungarian Processing Pipeline](https://github.com/mmihaltz/trendminer-hunlp) Hungarian NLP pipeline for social media text analysis (TrendMiner project)
 
 ### Other
@@ -51,6 +51,7 @@
 - [pywnxml](https://github.com/ppke-nlpg/pywnxml) Python3 API for WordNet XML (Hungarian WordNet / BalkaNet / VisDic format)
 - [hunpars](http://mokk.bme.hu/resources/hunpars/) A rule based Hungarian syntactical analyzer
 - [Anagramma Parser](https://github.com/ppke-nlpg/AnaGramma-Parser)
+- [SentimentAnalysisHUN](https://github.com/dhuszti/SentimentAnalysisHUN) is an open-source sentiment analysis tool for Hungarian language, written in Python.
 
 ## 2. Datasets
 
@@ -87,7 +88,7 @@
 
 ### Conferences
 
-- MSZNY (Conference on Hungarian Computational Linguistics) [2017](http://rgai.inf.u-szeged.hu/index.php?lang=hu&page=mszny2017)
+- MSZNY (Conference on Hungarian Computational Linguistics) [2017](http://rgai.inf.u-szeged.hu/index.php?lang=hu&page=mszny2017) [2016](http://rgai.inf.u-szeged.hu/mszny2016/) [2015](http://rgai.inf.u-szeged.hu/mszny2015/) [2014](http://rgai.inf.u-szeged.hu/mszny2014/)
 
 ### Institutes
 
