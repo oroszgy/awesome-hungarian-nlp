@@ -6,10 +6,10 @@
 
 ## Table of contents
 
-1. [Tools](#1.-tools)
-2. [Datasets](#2.-datasets)
-3. [Journals / Conferences / Institutes / Events](#3.-journals-/-conferences-/-institutes-/-events)
-4. [Blogs / Communities](#4.-blogs-/-communities)
+1. [Tools](#1-tools)
+2. [Datasets](#2-datasets)
+3. [Journals / Conferences / Institutes / Events](#3-journals-/-conferences-/-institutes-/-events)
+4. [Blogs / Communities](#4-blogs-/-communities)
 
 ## 1. Tools
 
