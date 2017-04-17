@@ -87,6 +87,11 @@ Notations:
 - [questions-words-hu](http://corpus.nytud.hu/efnilex-vect/data/questions-words-hu.txt) Hungarian analogical questions following Mikolov et al. 
 - [Named Entity lists for Hungarian](http://rgai.inf.u-szeged.hu/project/nlp/download/corpora/NER_dictionaries.zip)
 
+### Linked Open Data
+
+- [Wikipedia dumps](https://dumps.wikimedia.org/huwiki/)
+- [DBPedia dumps](http://downloads.dbpedia.org/current/core-i18n/hu/)
+
 ## 3. Journals / Conferences / Institutes / Events
 
 ### Journals
