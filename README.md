@@ -50,7 +50,7 @@
 - [emLam](https://github.com/dlt-rilmta/emLam) Preprocessing scripts for Hungarian Language Modeling
 - [pywnxml](https://github.com/ppke-nlpg/pywnxml) Python3 API for WordNet XML (Hungarian WordNet / BalkaNet / VisDic format)
 - [hunpars](http://mokk.bme.hu/resources/hunpars/) A rule based Hungarian syntactical analyzer
-- [Anagramma Parser](https://github.com/ppke-nlpg/AnaGramma-Parser)
+- [Anagramma Parser](https://github.com/ppke-nlpg/AnaGramma-Parser) A parser based on psycholinguistics principles
 - [SentimentAnalysisHUN](https://github.com/dhuszti/SentimentAnalysisHUN) is an open-source sentiment analysis tool for Hungarian language, written in Python.
 
 ## 2. Datasets
