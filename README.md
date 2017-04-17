@@ -16,6 +16,7 @@
 Notations:
 
 - 👌 Easy to install and use
+- 💯 Works out of the box
 - 🚀 Commercial-friendly licensing
 
 ### Word tokenization, sentence splitting
