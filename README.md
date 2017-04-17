@@ -13,6 +13,11 @@
 
 ## 1. Tools
 
+Notations:
+
+- 👌 Easy to install and use
+- 🚀 Commercial-friendly licensing
+
 ### Word tokenization, sentence splitting
 
 - [huntoken](https://github.com/zseder/huntoken) Hungarian word and sentence splitter
