@@ -16,7 +16,7 @@
 Notations:
 
 - 👌 Easy to install and use
-- 🚀 Commercial-friendly licensing
+- 🚀 Commercial-friendly license
 - 💯 Pretrained models are available
 
 ### Word tokenization, sentence splitting
