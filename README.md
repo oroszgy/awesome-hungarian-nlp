@@ -16,50 +16,49 @@
 Notations:
 
 - 👌 Easy to install and use
-- 💯 Works out of the box
 - 🚀 Commercial-friendly licensing
+- 💯 Pretrained models are available
 
 ### Word tokenization, sentence splitting
 
-- [huntoken](https://github.com/zseder/huntoken) Hungarian word and sentence splitter
-- [quntoken](https://github.com/dlt-rilmta/quntoken) New Hungarian tokenizer based on quex, huntoken
+- [huntoken](https://github.com/zseder/huntoken)👌🚀 Hungarian word and sentence splitter
+- [quntoken](https://github.com/dlt-rilmta/quntoken) 👌🚀 New Hungarian tokenizer based on quex, huntoken
 
 ### Morphology
 
 - [emMorph (Humor)](https://github.com/dlt-rilmta/emMorph) Hungarian morphological analyzer based on Humor
-- [hunmorph](http://mokk.bme.hu/resources/hunmorph/) Hunmorph is an open source tool and programming library for spell-checking, stemming and morphological analysing of agglutinative, german and other languages.
+- [hunmorph](http://mokk.bme.hu/resources/hunmorph/)🚀 Hunmorph is an open source tool and programming library for spell-checking, stemming and morphological analysing of agglutinative, german and other languages.
 
 ### PoS / Morphological taggers
 
-- [hunpos](http://mokk.bme.hu/resources/hunpos/) Hunpos is an open source reimplementation of TnT, the well known part-of-speech tagger by Thorsten Brants.
-- [PurepPos](https://github.com/ppke-nlpg/purepos) Open source morphological tagger based on HunPos
-- [purepos.py](https://github.com/ppke-nlpg/purepos.py) Python wrapper for PurePos
+- [hunpos](http://mokk.bme.hu/resources/hunpos/) 👌🚀💯 Hunpos is an open source reimplementation of TnT, the well known part-of-speech tagger by Thorsten Brants.
+- [PurepPos](https://github.com/ppke-nlpg/purepos) 👌🚀 Open source morphological tagger based on HunPos
+- [purepos.py](https://github.com/ppke-nlpg/purepos.py) 👌🚀 Python wrapper for PurePos
 
 ### Taggers / Chunkers
 
-- [HunTag](https://github.com/recski/HunTag) A sequential tagger for NLP using Maximum Entropy Learning and Hidden Markov Models
-- [HunTag3](https://github.com/ppke-nlpg/HunTag3) Improved version of the original HunTag
-- [SzegedNER](http://rgai.inf.u-szeged.hu/NER) Named Entity Recognition tool for Hungarian and English
-- [DBpedia Spotlight](https://github.com/dbpedia-spotlight/dbpedia-spotlight) DBpedia Spotlight is a tool for automatically annotating mentions of DBpedia resources in text.
-- [DBPedia Spotlight Hungarian - Docker image](https://hub.docker.com/r/dbpedia/spotlight-hungarian/) DBpedia Spotlight is a tool for automatically annotating mentions of DBpedia resources in text.
+- [HunTag](https://github.com/recski/HunTag) 👌🚀 A sequential tagger for NLP using Maximum Entropy Learning and Hidden Markov Models
+- [HunTag3](https://github.com/ppke-nlpg/HunTag3) 👌🚀 Improved version of the original HunTag
+- [SzegedNER](http://rgai.inf.u-szeged.hu/NER) 👌🚀💯 Named Entity Recognition tool for Hungarian and English
+- [DBpedia Spotlight](https://github.com/dbpedia-spotlight/dbpedia-spotlight) 👌🚀💯  DBpedia Spotlight is a tool for automatically annotating mentions of DBpedia resources in text. [Docker image](https://hub.docker.com/r/dbpedia/spotlight-hungarian/)
 
 ### Pipelines with Hungarian NLP components
 
-- [magyarlanc](http://rgai.inf.u-szeged.hu/magyarlanc) A toolkit for the basic linguistic processing of Hungarian
-- [spaCy](https://github.com/explosion/spaCy) Industrial-strength Natural Language Processing (NLP) with Python and Cython  
-- [huNLP](https://github.com/oroszgy/hunlp) Unified Java and REST API for magyarlanc and szegedNER
-- [hunlp-GATE](https://github.com/dlt-rilmta/hunlp-GATE) a GATE plugin containing Hungarian NLP tools as GATE processing resources
-- [Trendminer Hungarian Processing Pipeline](https://github.com/mmihaltz/trendminer-hunlp) Hungarian NLP pipeline for social media text analysis (TrendMiner project)
-- [Google Syntaxnet](https://research.googleblog.com/2017/03/an-upgrade-to-syntaxnet-new-models-and.html) Neural Models of Syntax
-- [UDPipe](http://ufal.mff.cuni.cz/udpipe) is a trainable pipeline for tokenization, tagging, lemmatization and dependency parsing of CoNLL-U files
+- [magyarlanc]👌💯 (http://rgai.inf.u-szeged.hu/magyarlanc) A toolkit for the basic linguistic processing of Hungarian
+- [spaCy](https://github.com/explosion/spaCy) 👌🚀💯 Industrial-strength Natural Language Processing (NLP) with Python and Cython  
+- [huNLP](https://github.com/oroszgy/hunlp) 👌💯 Unified Java and REST API for magyarlanc and szegedNER
+- [hunlp-GATE](https://github.com/dlt-rilmta/hunlp-GATE) 💯 a GATE plugin containing Hungarian NLP tools as GATE processing resources
+- [Trendminer Hungarian Processing Pipeline](https://github.com/mmihaltz/trendminer-hunlp) 🚀 Hungarian NLP pipeline for social media text analysis (TrendMiner project)
+- [Google Syntaxnet](https://research.googleblog.com/2017/03/an-upgrade-to-syntaxnet-new-models-and.html) 🚀💯 Neural Models of Syntax
+- [UDPipe](http://ufal.mff.cuni.cz/udpipe) 👌🚀💯 is a trainable pipeline for tokenization, tagging, lemmatization and dependency parsing of CoNLL-U files
 
 ### Other
 
-- [emLam](https://github.com/dlt-rilmta/emLam) Preprocessing scripts for Hungarian Language Modeling
-- [pywnxml](https://github.com/ppke-nlpg/pywnxml) Python3 API for WordNet XML (Hungarian WordNet / BalkaNet / VisDic format)
+- [emLam](https://github.com/dlt-rilmta/emLam) 👌🚀💯 Preprocessing scripts for Hungarian Language Modeling
+- [pywnxml](https://github.com/ppke-nlpg/pywnxml) 👌🚀💯 Python3 API for WordNet XML (Hungarian WordNet / BalkaNet / VisDic format)
 - [hunpars](http://mokk.bme.hu/resources/hunpars/) A rule based Hungarian syntactical analyzer
 - [Anagramma Parser](https://github.com/ppke-nlpg/AnaGramma-Parser) A parser based on psycholinguistics principles
-- [SentimentAnalysisHUN](https://github.com/dhuszti/SentimentAnalysisHUN) is an open-source sentiment analysis tool for Hungarian language, written in Python.
+- [SentimentAnalysisHUN](https://github.com/dhuszti/SentimentAnalysisHUN) 👌🚀💯 is an open-source sentiment analysis tool for Hungarian language, written in Python.
 
 ## 2. Datasets
 
