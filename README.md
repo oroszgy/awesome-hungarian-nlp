@@ -21,13 +21,14 @@ Notations:
 
 ### Word tokenization, sentence splitting
 
-- [huntoken](https://github.com/zseder/huntoken)👌🚀 Hungarian word and sentence splitter
+- [huntoken](https://github.com/zseder/huntoken) 👌🚀 Hungarian word and sentence splitter
 - [quntoken](https://github.com/dlt-rilmta/quntoken) 👌🚀 New Hungarian tokenizer based on quex, huntoken
 
 ### Morphology
 
 - [emMorph (Humor)](https://github.com/dlt-rilmta/emMorph) Hungarian morphological analyzer based on Humor
-- [hunmorph](http://mokk.bme.hu/resources/hunmorph/)🚀 Hunmorph is an open source tool and programming library for spell-checking, stemming and morphological analysing of agglutinative, german and other languages.
+- [hunmorph](http://mokk.bme.hu/resources/hunmorph/) 🚀  is an open source tool and programming library for spell-checking, stemming and morphological analysing of agglutinative, german and other languages.
+- [hunmorph-foma](https://github.com/r0ller/hunmorph-foma) 🚀 Hungarian morpholical analyzer and generator based on hunmorph.
 
 ### PoS / Morphological taggers
 
@@ -45,9 +46,10 @@ Notations:
 ### Pipelines with Hungarian NLP components
 
 - [magyarlanc](http://rgai.inf.u-szeged.hu/magyarlanc) 👌💯 A toolkit for the basic linguistic processing of Hungarian
+- [magyarlanc_spark](https://github.com/tyson925/magyarlanc_spark) 👌💯 Spark wrapper for magyarlanc
 - [spaCy](https://github.com/explosion/spaCy) 👌🚀💯 Industrial-strength Natural Language Processing (NLP) with Python and Cython  
 - [huNLP](https://github.com/oroszgy/hunlp) 👌💯 Unified Java and REST API for magyarlanc and szegedNER
-- [hunlp-GATE](https://github.com/dlt-rilmta/hunlp-GATE) 💯 a GATE plugin containing Hungarian NLP tools as GATE processing resources
+- [hunlp-GATE](https://github.com/dlt-rilmta/hunlp-GATE) 💯 GATE plugin containing Hungarian NLP tools as GATE processing resources
 - [Trendminer Hungarian Processing Pipeline](https://github.com/mmihaltz/trendminer-hunlp) 🚀 Hungarian NLP pipeline for social media text analysis (TrendMiner project)
 - [Google Syntaxnet](https://research.googleblog.com/2017/03/an-upgrade-to-syntaxnet-new-models-and.html) 🚀💯 Neural Models of Syntax
 - [UDPipe](http://ufal.mff.cuni.cz/udpipe) 👌🚀💯 is a trainable pipeline for tokenization, tagging, lemmatization and dependency parsing of CoNLL-U files
@@ -73,6 +75,7 @@ Notations:
 - [Hungarian Named Entity Corpora](http://rgai.inf.u-szeged.hu/index.php?lang=en&page=corpus_ne) The Named Entity Corpus for Hungarian is a subcorpus of the Szeged Treebank, which contains full syntactic annotations done manually by linguist experts.
  - [hunNERwiki](http://hlt.sztaki.hu/resources/hunnerwiki.html) a silver standard corpus for Hungarian Named Entity Recognition
 - [Hungarian word sense disambiguated corpus](http://rgai.inf.u-szeged.hu/index.php?lang=en&page=corpus_hunwsd) containing 39 suitable word form samples for the purpose of word sense disambiguation
+- [HunLearner](http://rgai.inf.u-szeged.hu/index.php?lang=en&page=hunlearner) is a learners' corpus of Hungarian containing written data from 35 students majoring in Hungarian studies at the University of Zagreb, Croatia. Texts were morphologically and syntactically analyzed by the magyarlanc tool.
 - [Hunglish Corpus](http://mokk.bme.hu/resources/hunglishcorpus/) The Hunglish Corpus is a free sentence-aligned Hungarian-English parallel corpus of about 120 million words in 4 million sentence pairs. 
 - [SzegedParallel](http://rgai.inf.u-szeged.hu/index.php?lang=en&page=corpus_paralell) The English-Hungarian parallel corpus contains texts selected on the basis of grammatical and translational criteria.
 - [HunOr](http://rgai.inf.u-szeged.hu/index.php?lang=en&page=corpus_hunor) A Hungarian-Russian Parallel corpus comprises approximately 800 thousand words.
