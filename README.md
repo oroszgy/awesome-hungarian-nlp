@@ -92,7 +92,7 @@ Notations:
 - [hunembed0.0](http://corpus.nytud.hu/efnilex-vect/) A word2vec word embedding trained on the concatenation of the Hungarian Webcorpus and the Hungarian National Corpus in 600 dimensions with a cut-off of 10 words.
 - [questions-words-hu](http://corpus.nytud.hu/efnilex-vect/data/questions-words-hu.txt) Hungarian analogical questions following Mikolov et al. 
 - [Named Entity lists for Hungarian](http://rgai.inf.u-szeged.hu/project/nlp/download/corpora/NER_dictionaries.zip)
-- [Mazsla ISZ](http://corpus.nytud.hu/isz/) lists 500K verb frames extracted from the Mazsola database
+- [Mazsola ISZ](http://corpus.nytud.hu/isz/) lists 500K verb frames extracted from the Mazsola database
 - [Manocska](https://github.com/ppke-nlpg/manocska) merges verb frames existing databases
 
 ### Linked Open Data
