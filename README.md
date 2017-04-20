@@ -17,18 +17,18 @@ Notations:
 
 - 👌 Easy to install and use
 - 🚀 Commercial-friendly license
-- 💯 Pretrained models are available
+- 💯 Pretrained models are available or not needed
 
 ### Word tokenization, sentence splitting
 
-- [huntoken](https://github.com/zseder/huntoken) 👌🚀 Hungarian word and sentence splitter
-- [quntoken](https://github.com/dlt-rilmta/quntoken) 👌🚀 New Hungarian tokenizer based on quex, huntoken
+- [huntoken](https://github.com/zseder/huntoken) 👌🚀💯 Hungarian word and sentence splitter
+- [quntoken](https://github.com/dlt-rilmta/quntoken) 👌🚀💯 New Hungarian tokenizer based on quex, huntoken
 
 ### Morphology
 
-- [emMorph (Humor)](https://github.com/dlt-rilmta/emMorph) Hungarian morphological analyzer based on Humor
-- [hunmorph](http://mokk.bme.hu/resources/hunmorph/) 🚀  is an open source tool and programming library for spell-checking, stemming and morphological analysing of agglutinative, german and other languages.
-- [hunmorph-foma](https://github.com/r0ller/hunmorph-foma) 🚀 Hungarian morpholical analyzer and generator based on hunmorph.
+- [emMorph (Humor)](https://github.com/dlt-rilmta/emMorph) 💯 Hungarian morphological analyzer based on Humor
+- [hunmorph](http://mokk.bme.hu/resources/hunmorph/) 🚀💯 is an open source tool and programming library for spell-checking, stemming and morphological analysing of agglutinative, german and other languages.
+- [hunmorph-foma](https://github.com/r0ller/hunmorph-foma) 🚀💯 Hungarian morpholical analyzer and generator based on hunmorph.
 
 ### PoS / Morphological taggers
 
@@ -58,7 +58,8 @@ Notations:
 
 - [emLam](https://github.com/dlt-rilmta/emLam) 👌🚀💯 Preprocessing scripts for Hungarian Language Modeling
 - [pywnxml](https://github.com/ppke-nlpg/pywnxml) 👌🚀💯 Python3 API for WordNet XML (Hungarian WordNet / BalkaNet / VisDic format)
-- [hunpars](http://mokk.bme.hu/resources/hunpars/) A rule based Hungarian syntactical analyzer
+- [hunpars](http://mokk.bme.hu/resources/hunpars/) 🚀💯 A rule based Hungarian syntactical analyzer
+- [HunParse](https://github.com/recski/HunParse) 🚀💯 An NLTK-based parser using KR-style morphological annotation
 - [Anagramma Parser](https://github.com/ppke-nlpg/AnaGramma-Parser) A parser based on psycholinguistics principles
 - [SentimentAnalysisHUN](https://github.com/dhuszti/SentimentAnalysisHUN) 👌🚀💯 is an open-source sentiment analysis tool for Hungarian language, written in Python.
 
