@@ -137,7 +137,7 @@ Notations:
 
 TBD
 
-## 4. Blogs / Communities
+## 5. Blogs / Communities
 
 - [Kereső világ](http://kereses.blog.hu/) Official blog of Precognox Inc.
 - [Hungarian NLP Meetup](https://www.meetup.com/Hungarian-nlp/)
