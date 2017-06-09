@@ -9,7 +9,8 @@
 1. [Tools](#1-tools)
 2. [Datasets](#2-datasets)
 3. [Journals / Conferences / Institutes / Events](#3-journals--conferences--institutes--events)
-4. [Blogs / Communities](#4-blogs--communities)
+4. [Courses / Tutorials](#3-courses--tutorials)
+5. [Blogs / Communities](#4-blogs--communities)
 
 ## 1. Tools
 
@@ -122,7 +123,7 @@ Notations:
 
 ### Conferences
 
-- MSZNY (Conference on Hungarian Computational Linguistics) [2017](http://rgai.inf.u-szeged.hu/index.php?lang=hu&page=mszny2017) [2016](http://rgai.inf.u-szeged.hu/mszny2016/) [2015](http://rgai.inf.u-szeged.hu/mszny2015/) [2014](http://rgai.inf.u-szeged.hu/mszny2014/)
+- MSZNY (Conference on Hungarian Computational Linguistics) [2017](http://rgai.inf.u-szeged.hu/index.php?lang=hu&page=mszny2017) [2016](http://rgai.inf.u-szeged.hu/mszny2016/) [2015](http://rgai.inf.u-szeged.hu/mszny2015/) [2014](http://rgai.inf.u-szeged.hu/mszny2014/) [2013](http://www.inf.u-szeged.hu/projectdirs/mszny2013/) [2011](http://www.inf.u-szeged.hu/projectdirs/mszny2011/) [2010](http://www.inf.u-szeged.hu/projectdirs/mszny2010/) [2009](http://www.inf.u-szeged.hu/projectdirs/mszny2009/)
 
 ### Institutes
 
@@ -131,6 +132,10 @@ Notations:
 - [Human Language Technology Research Group of the Budapest University of Technology and Economics](http://hlt.bme.hu/en/)
 - [Natural Language Processing Group of the Szeged University](http://www.inf.u-szeged.hu/rgai/nlp)
 - [BME - Laboratory of Speech Acoustics](http://alpha.tmit.bme.hu/speech/)
+
+## 4. Courses / Tutorials
+
+TBD
 
 ## 4. Blogs / Communities
 
