@@ -137,6 +137,8 @@ Notations:
 
 TBD
 
+- [Tutorial on Text Mining for Hungarian](https://github.com/oroszgy/hungarian-text-mining-workshop)
+
 ## 5. Blogs / Communities
 
 - [Kereső világ](http://kereses.blog.hu/) Official blog of Precognox Inc.
