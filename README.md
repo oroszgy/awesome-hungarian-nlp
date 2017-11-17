@@ -30,6 +30,9 @@ Notations:
 - [emMorph (Humor)](https://github.com/dlt-rilmta/emMorph) 💯 Hungarian morphological analyzer based on Humor
 - [hunmorph](http://mokk.bme.hu/resources/hunmorph/) 🚀💯 is an open source tool and programming library for spell-checking, stemming and morphological analysing of agglutinative, german and other languages.
 - [hunmorph-foma](https://github.com/r0ller/hunmorph-foma) 🚀💯 Hungarian morpholical analyzer and generator based on hunmorph.
+- [hunspell](http://hunspell.github.io/) 👌🚀💯 is an open-source spell-checker, stemmer and morphological analyzer
+- [lara-hungarian-nlp](https://github.com/sedthh/lara-hungarian-nlp) 👌🚀💯 LARA is a lightweight Python NLP library for ChatBots in Hungarian.
+- [Lemmagen](http://lemmatise.ijs.si/) 👌🚀💯 project aims at providing standardized open source multilingual platform for lemmatisation. ([Python package for v2](https://pypi.python.org/pypi/Lemmagen) | [C# project for v3](https://github.com/oroszgy/lemmagen3))
 
 ### PoS / Morphological taggers
 
@@ -56,14 +59,20 @@ Notations:
 - [UDPipe](http://ufal.mff.cuni.cz/udpipe) 👌🚀💯 is a trainable pipeline for tokenization, tagging, lemmatization and dependency parsing of CoNLL-U files
 - [polyglot](http://polyglot.readthedocs.io/en/latest/index.html) 👌🚀💯 is a natural language pipeline that supports massive multilingual applications.
 
+### Syntactic parsers
+
+- [hunpars](http://mokk.bme.hu/resources/hunpars/) 🚀💯 A rule based Hungarian syntactical analyzer
+- [HunParse](https://github.com/recski/HunParse) 🚀💯 An NLTK-based parser using KR-style morphological annotation
+- [Anagramma Parser](https://github.com/ppke-nlpg/AnaGramma-Parser) A parser based on psycholinguistics principles
+
+### Semantic analysis
+
+- [SentimentAnalysisHUN](https://github.com/dhuszti/SentimentAnalysisHUN) 👌🚀💯 is an open-source sentiment analysis tool for Hungarian language, written in Python.
+
 ### Other
 
 - [emLam](https://github.com/dlt-rilmta/emLam) 👌🚀💯 Preprocessing scripts for Hungarian Language Modeling
 - [pywnxml](https://github.com/ppke-nlpg/pywnxml) 👌🚀💯 Python3 API for WordNet XML (Hungarian WordNet / BalkaNet / VisDic format)
-- [hunpars](http://mokk.bme.hu/resources/hunpars/) 🚀💯 A rule based Hungarian syntactical analyzer
-- [HunParse](https://github.com/recski/HunParse) 🚀💯 An NLTK-based parser using KR-style morphological annotation
-- [Anagramma Parser](https://github.com/ppke-nlpg/AnaGramma-Parser) A parser based on psycholinguistics principles
-- [SentimentAnalysisHUN](https://github.com/dhuszti/SentimentAnalysisHUN) 👌🚀💯 is an open-source sentiment analysis tool for Hungarian language, written in Python.
 
 ## 2. Datasets
 
@@ -104,7 +113,6 @@ Notations:
 
 - [morphdb.hu](http://mokk.bme.hu/resources/morphdb-hu/) is an open source morphological database of Hungarian, consisting of a lexicon and morphological grammar that are based on well-founded theoretical decisions.
 - [huwn](https://github.com/mmihaltz/huwn) Hungarian Wordnet
-- [huwn.rdf](https://github.com/mmihaltz/huwn.rdf) Hungarian WordNet in RDF format for the Linked Open Data cloud
 - [Hungarian Sentiment Lexicon](http://opendata.hu/dataset/hungarian-sentiment-lexicon) The dictionaries were manually created on the basis of Wordnet-Affect lexicons.
 - [4lang](https://github.com/kornai/4lang) Concept dictionary using Eilenberg machines
 - [Named Entity lists for Hungarian](http://rgai.inf.u-szeged.hu/project/nlp/download/corpora/NER_dictionaries.zip)
@@ -115,6 +123,7 @@ Notations:
 
 - [Wikipedia dumps](https://dumps.wikimedia.org/huwiki/)
 - [DBPedia dumps](http://downloads.dbpedia.org/current/core-i18n/hu/)
+- [huwn.rdf](https://github.com/mmihaltz/huwn.rdf) Hungarian WordNet in RDF format for the Linked Open Data cloud
 
 ## 3. Journals / Conferences / Institutes / Events
 
@@ -124,7 +133,7 @@ Notations:
 
 ### Conferences
 
-- MSZNY (Conference on Hungarian Computational Linguistics) [2017](http://rgai.inf.u-szeged.hu/index.php?lang=hu&page=mszny2017) [2016](http://rgai.inf.u-szeged.hu/mszny2016/) [2015](http://rgai.inf.u-szeged.hu/mszny2015/) [2014](http://rgai.inf.u-szeged.hu/mszny2014/) [2013](http://www.inf.u-szeged.hu/projectdirs/mszny2013/) [2011](http://www.inf.u-szeged.hu/projectdirs/mszny2011/) [2010](http://www.inf.u-szeged.hu/projectdirs/mszny2010/) [2009](http://www.inf.u-szeged.hu/projectdirs/mszny2009/)
+- MSZNY (Conference on Hungarian Computational Linguistics) [2018](http://rgai.inf.u-szeged.hu/index.php?lang=hu&page=mszny2018) [2017](http://rgai.inf.u-szeged.hu/index.php?lang=hu&page=mszny2017) [2016](http://rgai.inf.u-szeged.hu/mszny2016/) [2015](http://rgai.inf.u-szeged.hu/mszny2015/) [2014](http://rgai.inf.u-szeged.hu/mszny2014/) [2013](http://www.inf.u-szeged.hu/projectdirs/mszny2013/) [2011](http://www.inf.u-szeged.hu/projectdirs/mszny2011/) [2010](http://www.inf.u-szeged.hu/projectdirs/mszny2010/) [2009](http://www.inf.u-szeged.hu/projectdirs/mszny2009/)
 
 ### Institutes
 
@@ -144,3 +153,4 @@ TBD
 
 - [Kereső világ](http://kereses.blog.hu/) Official blog of Precognox Inc.
 - [Hungarian NLP Meetup](https://www.meetup.com/Hungarian-nlp/)
+- [Deep Learning Reading Seminar Meetup](https://www.meetup.com/Budapest-Deep-Learning-Reading-Seminar/)
