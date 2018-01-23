@@ -108,7 +108,7 @@ Notations:
 - [Szeged word vectors](http://rgai.inf.u-szeged.hu/project/nlp/research/w2v/doc.html) Word embeddings (word2vec & fasttext) for Hungarian trained on 4.3 billion tokens
 - [questions-words-hu](http://corpus.nytud.hu/efnilex-vect/data/questions-words-hu.txt) Hungarian analogical questions following Mikolov et al. 
 - [Conceptnet Numberbatch](https://github.com/commonsense/conceptnet-numberbatch) Conceptnet numbermatch multi- and cross-lingual semantic word embeddings
-- [Multi-sense word embeddings](https://hlt.bme.hu/hu/publ/makrai17)
+- [Multi-sense word embeddings](https://hlt.bme.hu/en/publ/makrai17)
 
 ### Linguistic Resources
 
