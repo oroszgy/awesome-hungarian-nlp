@@ -105,6 +105,7 @@ lanc_spark) 👌💯 Spark wrapper for magyarlanc
 ### Word vectors
 
 - [FasText Wikipedia](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md) pre-trained word vectors for 90 languages, trained on Wikipedia using fastText.
+- [FasText Common Crawl & Wikipedia](https://fasttext.cc/docs/en/crawl-vectors.html) pre-trained word vectors for 157 languages, trained on Wikipedia and the Common Crawl using fastText's CBOW model.
 - [FastText_multilingual](https://github.com/Babylonpartners/fastText_multilingual) Multilingual word vectors in 78 languages
 - [polyglot vectors](https://sites.google.com/site/rmyeid/projects/polyglot) polgyglot embeddings on Wikipedia
 - [wordvectors](https://github.com/Kyubyong/wordvectors) Pre-trained word2vec and fasttext word vectors on wikipedia of 30+ languages
