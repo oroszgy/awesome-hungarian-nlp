@@ -130,6 +130,7 @@ Notations:
 - [Wikipedia dumps](https://dumps.wikimedia.org/huwiki/)
 - [DBPedia dumps](http://downloads.dbpedia.org/current/core-i18n/hu/)
 - [huwn.rdf](https://github.com/mmihaltz/huwn.rdf) Hungarian WordNet in RDF format for the Linked Open Data cloud
+- [Conceptnet](http://conceptnet.io/) An open, multilingual knowledge graph (with partial Hungarian support)
 
 ## 3. Journals / Conferences / Institutes / Events
 
