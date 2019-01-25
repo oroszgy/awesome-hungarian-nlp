@@ -125,6 +125,7 @@ Notations:
 - [Mazsola ISZ](http://corpus.nytud.hu/isz/) lists 500K verb frames extracted from the Mazsola database
 - [Manocska](https://github.com/ppke-nlpg/manocska) merges verb frames existing databases
 - [PrevLex](https://github.com/kagnes/prevlex) List of phrasel verbs
+- [panmorph](https://github.com/dlt-rilmta/panmorph) Tagsets and description of Hungarian morphological analysers.
 
 ### Linked Open Data
 
