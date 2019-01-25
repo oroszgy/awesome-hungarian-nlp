@@ -124,6 +124,7 @@ Notations:
 - [Named Entity lists for Hungarian](http://rgai.inf.u-szeged.hu/project/nlp/download/corpora/NER_dictionaries.zip)
 - [Mazsola ISZ](http://corpus.nytud.hu/isz/) lists 500K verb frames extracted from the Mazsola database
 - [Manocska](https://github.com/ppke-nlpg/manocska) merges verb frames existing databases
+- [PrevLex](https://github.com/kagnes/prevlex) List of phrasel verbs
 
 ### Linked Open Data
 
