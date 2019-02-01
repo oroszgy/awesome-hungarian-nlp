@@ -60,6 +60,8 @@ Notations:
 - [UDPipe](http://ufal.mff.cuni.cz/udpipe) 👌🚀💯 is a trainable pipeline for tokenization, tagging, lemmatization and dependency parsing of CoNLL-U files
 - [polyglot](http://polyglot.readthedocs.io/en/latest/index.html) 👌🚀💯 is a natural language pipeline that supports massive multilingual applications.
 - [emtsv](https://github.com/dlt-rilmta/emtsv) 👌💯 is a text processing system with inter-module communication via tsv + REST API
+- [StanfordNLP](https://github.com/stanfordnlp/stanfordnlp) 👌💯 is a Python NLP Library for Many Human Languages including Hungarian
+- [spaCy StanfordNLP](https://github.com/explosion/spacy-stanfordnlp) 👌💯 wraps the StanfordNLP library, so you can use Stanford's models as a spaCy pipeline
 
 ### Syntactic parsers
 
