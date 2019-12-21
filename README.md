@@ -152,7 +152,8 @@ Notations:
 - [Natural Language Processing Group of the Pázmány Péter Catholic University Faculty of Information Tehnology and Bionics](http://nlpg.itk.ppke.hu/)
 - [Department of Language Technology and Applied Linguistics, RIL-MTA](http://www.nytud.hu/depts/delts/index.html)
 - [Human Language Technology Research Group of the Budapest University of Technology and Economics](http://hlt.bme.hu/en/)
-- [Natural Language Processing Group of the Szeged University](http://www.inf.u-szeged.hu/rgai/nlp)
+- [Natural Language Processing Group of the Szeged
+  University](https://rgai.inf.u-szeged.hu/nlp)
 - [BME - Laboratory of Speech Acoustics](http://alpha.tmit.bme.hu/speech/)
 
 ## 4. Courses / Tutorials
