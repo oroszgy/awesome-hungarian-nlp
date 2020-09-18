@@ -118,7 +118,10 @@ Notations:
 - [questions-words-hu](http://corpus.nytud.hu/efnilex-vect/data/questions-words-hu.txt) Hungarian analogical questions following Mikolov et al. 
 - [Conceptnet Numberbatch](https://github.com/commonsense/conceptnet-numberbatch) Conceptnet numbermatch multi- and cross-lingual semantic word embeddings
 - [Multi-sense word embeddings](https://hlt.bme.hu/en/publ/makrai17)
+
+### Contextualized Embeddings
 - [ELMo Representations](https://github.com/HIT-SCIR/ELMoForManyLangs) Deep contextualized word representation trained for many languages
+- [`huBERT`](https://hlt.bme.hu/en/resources/hubert) 👌🚀💯 Hungarian BERT base models trained on Webcorpus 2.0 and the Hungarian Wikipedia
 
 ### Linguistic Resources
 
