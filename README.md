@@ -63,6 +63,7 @@ Notations:
 - [emtsv](https://github.com/dlt-rilmta/emtsv) 👌💯 is a text processing system with inter-module communication via tsv + REST API
 - [StanfordNLP](https://github.com/stanfordnlp/stanfordnlp) 👌💯 is a Python NLP Library for Many Human Languages including Hungarian
 - [spaCy StanfordNLP](https://github.com/explosion/spacy-stanfordnlp) 👌💯 wraps the StanfordNLP library, so you can use Stanford's models as a spaCy pipeline
+- [trankit] 👌🚀💯 (https://github.com/nlp-uoregon/trankit) A Light-Weight Transformer-based Python Toolkit for Multilingual Natural Language Processing
 
 ### Syntactic parsers
 
