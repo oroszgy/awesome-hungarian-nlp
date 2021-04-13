@@ -127,6 +127,7 @@ Notations:
 - [questions-words-hu](http://corpus.nytud.hu/efnilex-vect/data/questions-words-hu.txt) Hungarian analogical questions following Mikolov et al. 
 - [Conceptnet Numberbatch](https://github.com/commonsense/conceptnet-numberbatch) Conceptnet numbermatch multi- and cross-lingual semantic word embeddings
 - [Multi-sense word embeddings](https://hlt.bme.hu/en/publ/makrai17)
+- [BytePair Embeddings](https://bpemb.h-its.org/hu/) pretrained Subword Embeddings, downloadable in many formats
 
 ### Contextualized Embeddings
 - [ELMo Representations](https://github.com/HIT-SCIR/ELMoForManyLangs) Deep contextualized word representation trained for many languages
