@@ -104,7 +104,8 @@ Notations:
 - [Hungarian Named Entity Corpora](http://rgai.inf.u-szeged.hu/index.php?lang=en&page=corpus_ne) The Named Entity Corpus for Hungarian is a subcorpus of the Szeged Treebank, which contains full syntactic annotations done manually by linguist experts.
 - [NerKor](https://github.com/dlt-rilmta/NerKor) is a gold standard named entity annotated corpus containing 1 million tokens.
 - [hunNERwiki](http://hlt.sztaki.hu/resources/hunnerwiki.html) a silver standard corpus for Hungarian Named Entity Recognition
-- [Mazsola database](http://corpus.nytud.hu/isz/) containes 28M sentences from the MNSZ1 corpus annotated with shallow syntactic analysis 
+- [Mazsola database](http://corpus.nytud.hu/isz/) contains 28M sentences from the MNSZ1 corpus annotated with shallow syntactic analysis 
+- [PrevCons](https://github.com/kagnes/prevcons) is a database of 21K hapaxes of verbs with verbal prefixes
 - [Hungarian word sense disambiguated corpus](http://rgai.inf.u-szeged.hu/index.php?lang=en&page=corpus_hunwsd) containing 39 suitable word form samples for the purpose of word sense disambiguation
 - [HunLearner](http://rgai.inf.u-szeged.hu/index.php?lang=en&page=hunlearner) is a learners' corpus of Hungarian containing written data from 35 students majoring in Hungarian studies at the University of Zagreb, Croatia. Texts were morphologically and syntactically analyzed by the magyarlanc tool.
 - [Hunglish Corpus](http://mokk.bme.hu/resources/hunglishcorpus/) The Hunglish Corpus is a free sentence-aligned Hungarian-English parallel corpus of about 120 million words in 4 million sentence pairs. 
