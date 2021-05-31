@@ -83,7 +83,8 @@ Notations:
 - [emLam](https://github.com/dlt-rilmta/emLam) 👌🚀💯 Preprocessing scripts for Hungarian Language Modeling
 - [pywnxml](https://github.com/ppke-nlpg/pywnxml) 👌🚀💯 Python3 API for WordNet XML (Hungarian WordNet / BalkaNet / VisDic format)
 - [Hun-appointment-chatbot](https://github.com/szegedai/hun-appointment-chatbot) 👌🚀💯 A simple Hungarian chatbot for booking an appointment using the Rasa framework.
-- [neural-punctuator](https://github.com/attilanagy234/neural-punctuator) Automatic punctuation restoration with BERT models for English and Hungarian
+- [neural-punctuator](https://github.com/attilanagy234/neural-punctuator) 👌🚀💯 Automatic punctuation restoration with BERT models for English and Hungarian
+- [hunaccent](https://github.com/juditacs/hunaccent) 👌🚀💯 Small Footprint Diacritic Restoration for Hungarian
 
 ## 2. Datasets
 
