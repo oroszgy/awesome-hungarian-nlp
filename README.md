@@ -11,6 +11,7 @@
 3. [Journals / Conferences / Institutes / Events](#3-journals--conferences--institutes--events)
 4. [Courses / Tutorials](#4-courses--tutorials)
 5. [Blogs / Communities](#5-blogs--communities)
+6. [Other Hungarian related resource collections](#6-other-hungarian-related-resource-collections)
 
 ## 1. Tools
 
@@ -191,3 +192,7 @@ TBD
 - [Kereső világ](http://kereses.blog.hu/) Official blog of Precognox Inc.
 - [Hungarian NLP Meetup](https://www.meetup.com/Hungarian-nlp/)
 - [Deep Learning Reading Seminar Meetup](https://www.meetup.com/Budapest-Deep-Learning-Reading-Seminar/)
+
+## 6. Other Hungarian related resource collections
+
+- [EENLP](https://github.com/altsoph/EENLP) The broad index of NLP resources for Eastern European languages.
