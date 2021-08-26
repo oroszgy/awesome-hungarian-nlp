@@ -196,3 +196,4 @@ TBD
 ## 6. Other Hungarian related resource collections
 
 - [EENLP](https://github.com/altsoph/EENLP) The broad index of NLP resources for Eastern European languages.
+- [European Language Grid](https://live.european-language-grid.eu)
