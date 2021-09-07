@@ -197,3 +197,4 @@ TBD
 
 - [EENLP](https://github.com/altsoph/EENLP) The broad index of NLP resources for Eastern European languages.
 - [European Language Grid](https://live.european-language-grid.eu)
+- [Hugging Faces Dataset](https://huggingface.co/datasets?languages=languages:hu&sort=alphabetical)
