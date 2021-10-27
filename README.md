@@ -135,7 +135,10 @@ Notations:
 
 ### Contextualized Embeddings
 - [ELMo Representations](https://github.com/HIT-SCIR/ELMoForManyLangs) Deep contextualized word representation trained for many languages
+
+### Pretrained Transformer models
 - [`huBERT`](https://hlt.bme.hu/en/resources/hubert) Hungarian BERT base models trained on Webcorpus 2.0 and the Hungarian Wikipedia
+- [HIL* Transformer models](https://hilanco.github.io) Pretrained transformer models provided by HILANCO
 
 ### Linguistic Resources
 
