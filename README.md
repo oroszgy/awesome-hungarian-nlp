@@ -119,6 +119,7 @@ Notations:
 - [CC-100](http://data.statmt.org/cc-100) Monolingual Datasets from Web Crawl Data
 - [Hungarian-Russian Prisoner of War Database](https://github.com/dlt-rilmta/hadifogoly-adatbazis)
 - [Hungarian sentiment corpus (HuSent)](https://rgai.inf.u-szeged.hu/node/363) is a deeply annotated Hungarian sentiment corpus. It is composed of Hungarian opinion texts written about different types of products, published on the homepage [http://divany.hu/]
+- [ted-talks-transcripts-parallel-corpus](https://www.kaggle.com/db189ab19e7dfeda/ted-talks-transcripts-parallel-corpus) sentence aligned TED talks including Hungarian.
 
 ### Word vectors
 
