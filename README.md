@@ -159,10 +159,16 @@ Notations:
 ### Linked Open Data
 
 - [Wikipedia dumps](https://dumps.wikimedia.org/huwiki/)
+- [Wikidata dumps](https://www.wikidata.org/wiki/Wikidata:Database_download)
 - [DBPedia dumps](http://downloads.dbpedia.org/current/core-i18n/hu/)
 - [huwn.rdf](https://github.com/mmihaltz/huwn.rdf) Hungarian WordNet in RDF format for the Linked Open Data cloud
 - [Conceptnet](http://conceptnet.io/) An open, multilingual knowledge graph (with partial Hungarian support)
 
+### Geo Data
+- [OpenStreetMap(OSM)](https://www.openstreetmap.org/)
+  In [Hungary](http://download.geofabrik.de/europe/hungary.html) the [`name`](https://wiki.openstreetmap.org/wiki/Key:name) keys, [otherwise](https://planet.openstreetmap.org/) the [*name:hu](https://taginfo.openstreetmap.org/search?q=name%3Ahu)
+- [Natural-earth-vector](https://github.com/nvkelso/natural-earth-vector) ([`name_hu`](https://github.com/nvkelso/natural-earth-vector/blob/master/packages/Natural_Earth_quick_start/LOCALIZATION.md) imported from wikidata labels)
+- [Who's On First](https://whosonfirst.org/) is a gazetteer of places (with [Hungarian administrative places](https://github.com/whosonfirst-data/whosonfirst-data-admin-hu))
 ### Speech
 
 - [Hungarian Single Speaker Speech Dataset](https://www.kaggle.com/bryanpark/hungarian-single-speaker-speech-dataset)
