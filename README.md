@@ -132,7 +132,8 @@ Notations:
 - [Conceptnet Numberbatch](https://github.com/commonsense/conceptnet-numberbatch) Conceptnet numbermatch multi- and cross-lingual semantic word embeddings
 - [Multi-sense word embeddings](https://hlt.bme.hu/en/publ/makrai17)
 - [BytePair Embeddings](https://bpemb.h-its.org/hu/) pretrained Subword Embeddings, downloadable in many formats
-
+- [HuSpaCy 300d](https://huggingface.co/huspacy/hu_vectors_web_lg) 300d Floret embeddings trained on the Hungarian Webcorpus 2.0
+- [HuSpaCy 100d](https://huggingface.co/huspacy/hu_vectors_web_md) 100d Floret embeddings trained on the Hungarian Webcorpus 2.0
 - [ELMo Representations](https://github.com/HIT-SCIR/ELMoForManyLangs) Deep contextualized word representation trained for many languages
 
 ### Transformer models
