@@ -115,6 +115,10 @@ Notations:
 - [Hun-appointment-chatbot](https://github.com/szegedai/hun-appointment-chatbot) 👌🚀💯 A simple Hungarian chatbot for booking an appointment using the Rasa framework.
 - [neural-punctuator](https://github.com/attilanagy234/neural-punctuator) 👌🚀💯 Automatic punctuation restoration with BERT models for English and Hungarian
 - [hunaccent](https://github.com/juditacs/hunaccent) 👌🚀💯 Small Footprint Diacritic Restoration for Hungarian
+- [Diacritics_restoration](https://github.com/aielte-research/Diacritics_restoration) Lightweight Diacritics Restoration with Dilated Convolutional Neural Networks
+- [NYTK MT](https://github.com/nytud/machine-translation) NYTK Machine translation models
+- [syntax-augmentation-nmt](https://github.com/attilanagy234/syntax-augmentation-nmt) Syntax-based data augmentation for Hungarian-English machine translation 
+- [anonymizer_hu](https://github.com/nytud/anonymizer_hu) The Hungarian anonymization tool for CURLICAT
 
 
 ## Language models
@@ -166,6 +170,7 @@ Notations:
 - [Hungarian Named Entity Corpora](http://rgai.inf.u-szeged.hu/index.php?lang=en&page=corpus_ne) The Named Entity Corpus for Hungarian is a subcorpus of the Szeged Treebank, which contains full syntactic annotations done manually by linguist experts.
 - [KorKorpusz](https://github.com/vadno/korkor_pilot) is a gold standard corpus consisting of multiple layers such as dependency parse and coreference annotations
 - [NerKor](https://github.com/dlt-rilmta/NerKor) is a gold standard named entity annotated corpus containing 1 million tokens.
+- [NerKor 1.41e](https://github.com/novakat/NYTK-NerKor-Cars-OntoNotesPP) A 1M+-token Hungarian named entity dataset with ~30 entity types derived from NYTK-NerKor
 - [hunNERwiki](http://hlt.sztaki.hu/resources/hunnerwiki.html) a silver standard corpus for Hungarian Named Entity Recognition
 - [Mazsola database](http://corpus.nytud.hu/isz/) contains 28M sentences from the MNSZ1 corpus annotated with shallow syntactic analysis 
 - [PrevCons](https://github.com/kagnes/prevcons) is a database of 21K hapaxes of verbs with verbal prefixes
@@ -176,6 +181,7 @@ Notations:
    - [HuCoPA](https://github.com/nytud/HuCoPA) Hungarian Choice of Plausible Alternatives Corpus
    - [HuSST](https://github.com/nytud/HuSST) Hungarian version of the Sentiment Treebank
    - [HuWNLI](https://github.com/nytud/HuWNLI) Anaphora resolution datasets for Hungarian as an inference task
+- [HuRC](https://huggingface.co/datasets/NYTK/HuRC) Hungarian Corpus for Reading Comprehension with Commonsense Reasoning
 
 #### Parallel corpora
 
