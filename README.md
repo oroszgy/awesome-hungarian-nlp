@@ -6,31 +6,34 @@
 
 ## Table of contents
 
-<!-- MarkdownTOC autolink="true" markdown_preview="github" style="ordered"  -->
+<!-- MarkdownTOC autolink="true" markdown_preview="github" style="ordered" indent="   " -->
 
 1. [Tools](#tools)
-	1. [Word tokenization, sentence splitting](#word-tokenization-sentence-splitting)
-	1. [Morphology](#morphology)
-	1. [PoS / Morphological taggers](#pos--morphological-taggers)
-	1. [Taggers / Chunkers](#taggers--chunkers)
-	1. [Pipelines with Hungarian NLP components](#pipelines-with-hungarian-nlp-components)
-	1. [Syntactic parsers](#syntactic-parsers)
-	1. [Semantic analysis](#semantic-analysis)
-	1. [Other](#other)
+   1. [Word tokenization, sentence splitting](#word-tokenization-sentence-splitting)
+   1. [Morphology](#morphology)
+   1. [PoS / Morphological taggers](#pos--morphological-taggers)
+   1. [Taggers / Chunkers](#taggers--chunkers)
+   1. [Pipelines with Hungarian NLP components](#pipelines-with-hungarian-nlp-components)
+   1. [Syntactic parsers](#syntactic-parsers)
+   1. [Semantic analysis](#semantic-analysis)
+   1. [Other](#other)
 1. [Datasets](#datasets)
-	1. [Corpora](#corpora)
-	1. [Word vectors](#word-vectors)
-	1. [Contextualized Embeddings](#contextualized-embeddings)
-	1. [Pretrained Transformer models](#pretrained-transformer-models)
-	1. [Linguistic Resources](#linguistic-resources)
-	1. [Linked Open Data](#linked-open-data)
-	1. [Geo Data](#geo-data)
-	1. [Speech](#speech)
+   1. [Corpora](#corpora)
+   1. [Word vectors](#word-vectors)
+   1. [Contextualized Embeddings](#contextualized-embeddings)
+   1. [Pretrained Transformer models](#pretrained-transformer-models)
+   1. [Linguistic Resources](#linguistic-resources)
+   1. [Linked Open Data](#linked-open-data)
+   1. [Geo Data](#geo-data)
+   1. [Speech](#speech)
 1. [Journals / Conferences / Institutes / Events](#journals--conferences--institutes--events)
-	1. [Journals](#journals)
-	1. [Conferences](#conferences)
-	1. [Institutes](#institutes)
-1. [Courses / Tutorials](#courses--tutorials)
+   1. [Journals](#journals)
+   1. [Conferences](#conferences)
+   1. [Institutes](#institutes)
+1. [Learning resources](#learning-resources)
+   1. [Books](#books)
+1. [Courses](#courses)
+   1. [Tutorials](#tutorials)
 1. [Blogs / Communities](#blogs--communities)
 1. [Other Hungarian related resource collections](#other-hungarian-related-resource-collections)
 
@@ -224,10 +227,21 @@ Notations:
   University](https://rgai.inf.u-szeged.hu/nlp)
 - [BME - Laboratory of Speech Acoustics](http://alpha.tmit.bme.hu/speech/)
 
-## Courses / Tutorials
+## Learning resources
 
-TBD
+### Books
 
+- [Text Mining](https://www.typotex.hu/book/45/tikk_domonkos_szovegbanyaszat/00)
+- [Text Mining and Artificial Intelligence in R](https://tankonyv.poltextlab.com)
+
+## Courses
+
+- [NLP Courses by the University Of Szeged](https://www.inf.u-szeged.hu/~rfarkas/hallgatok.html)
+- [NLP Courses by the HLT Group of the Budapest University of Technology](https://hlt.bme.hu/hu/courses)
+
+### Tutorials
+
+- [Mini NLP Course by the Center Of Digital Humanities](https://pim.hu/hu/digitalis-bolcseszeti-kozpont/nyelvtechnologia-kurzus)
 - [Tutorial on Text Mining for Hungarian](https://github.com/oroszgy/hungarian-text-mining-workshop)
 
 ## Blogs / Communities
@@ -240,4 +254,4 @@ TBD
 
 - [EENLP](https://github.com/altsoph/EENLP) The broad index of NLP resources for Eastern European languages.
 - [European Language Grid](https://live.european-language-grid.eu)
-- [Hugging Face Dataset](https://huggingface.co/datasets?languages=languages:hu&sort=alphabetical)
+- [Hugging Face Datasets](https://huggingface.co/datasets?languages=languages:hu&sort=alphabetical)
