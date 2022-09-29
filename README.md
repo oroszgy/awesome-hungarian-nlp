@@ -28,7 +28,7 @@
    1. [Linguistic Resources](#linguistic-resources)
    1. [Linked Open Data](#linked-open-data)
    1. [Geo Data](#geo-data)
-1. [Speech related data](#speech-related-data)
+   1. [Speech related data](#speech-related-data)
 1. [Journals / Conferences / Institutes / Events](#journals--conferences--institutes--events)
    1. [Journals](#journals)
    1. [Conferences](#conferences)
@@ -170,6 +170,11 @@ Notations:
 - [PrevCons](https://github.com/kagnes/prevcons) is a database of 21K hapaxes of verbs with verbal prefixes
 - [Hungarian word sense disambiguated corpus](http://rgai.inf.u-szeged.hu/index.php?lang=en&page=corpus_hunwsd) containing 39 suitable word form samples for the purpose of word sense disambiguation
 - [HunLearner](http://rgai.inf.u-szeged.hu/index.php?lang=en&page=hunlearner) is a learners' corpus of Hungarian containing written data from 35 students majoring in Hungarian studies at the University of Zagreb, Croatia. Texts were morphologically and syntactically analyzed by the magyarlanc tool.
+- [HuLU](https://github.com/nytud/HuLU) Hungarian Language Understanding Benchmark Kit
+   - [HuCOLA](https://github.com/nytud/HuCOLA) Hungarian Corpus of Linguistic Acceptability
+   - [HuCoPA](https://github.com/nytud/HuCoPA) Hungarian Choice of Plausible Alternatives Corpus
+   - [HuSST](https://github.com/nytud/HuSST) Hungarian version of the Sentiment Treebank
+   - [HuWNLI](https://github.com/nytud/HuWNLI) Anaphora resolution datasets for Hungarian as an inference task
 
 #### Parallel corpora
 
@@ -215,7 +220,7 @@ Notations:
 - [Natural-earth-vector](https://github.com/nvkelso/natural-earth-vector) ([`name_hu`](https://github.com/nvkelso/natural-earth-vector/blob/master/packages/Natural_Earth_quick_start/LOCALIZATION.md) imported from wikidata labels)
 - [Who's On First](https://whosonfirst.org/) is a gazetteer of places (with [Hungarian administrative places](https://github.com/whosonfirst-data/whosonfirst-data-admin-hu) )
 
-## Speech related data
+### Speech related data
 
 - [Hungarian Single Speaker Speech Dataset](https://www.kaggle.com/bryanpark/hungarian-single-speaker-speech-dataset)
 - [Mozilla Common Voice](https://commonvoice.mozilla.org/hu/datasets)
@@ -262,6 +267,7 @@ Notations:
 - [Kereső világ](http://kereses.blog.hu/) Official blog of Precognox Inc.
 - [Hungarian NLP Meetup](https://www.meetup.com/Hungarian-nlp/)
 - [Deep Learning Reading Seminar Meetup](https://www.meetup.com/Budapest-Deep-Learning-Reading-Seminar/)
+- [HuNLP Slack](https://hunlp.slack.com/)
 
 ## Other Hungarian related resource collections
 
