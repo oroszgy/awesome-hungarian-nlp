@@ -6,14 +6,37 @@
 
 ## Table of contents
 
-1. [Tools](#1-tools)
-2. [Datasets](#2-datasets)
-3. [Journals / Conferences / Institutes / Events](#3-journals--conferences--institutes--events)
-4. [Courses / Tutorials](#4-courses--tutorials)
-5. [Blogs / Communities](#5-blogs--communities)
-6. [Other Hungarian related resource collections](#6-other-hungarian-related-resource-collections)
+<!-- MarkdownTOC autolink="true" markdown_preview="github" style="ordered"  -->
 
-## 1. Tools
+1. [Tools](#tools)
+	1. [Word tokenization, sentence splitting](#word-tokenization-sentence-splitting)
+	1. [Morphology](#morphology)
+	1. [PoS / Morphological taggers](#pos--morphological-taggers)
+	1. [Taggers / Chunkers](#taggers--chunkers)
+	1. [Pipelines with Hungarian NLP components](#pipelines-with-hungarian-nlp-components)
+	1. [Syntactic parsers](#syntactic-parsers)
+	1. [Semantic analysis](#semantic-analysis)
+	1. [Other](#other)
+1. [Datasets](#datasets)
+	1. [Corpora](#corpora)
+	1. [Word vectors](#word-vectors)
+	1. [Contextualized Embeddings](#contextualized-embeddings)
+	1. [Pretrained Transformer models](#pretrained-transformer-models)
+	1. [Linguistic Resources](#linguistic-resources)
+	1. [Linked Open Data](#linked-open-data)
+	1. [Geo Data](#geo-data)
+	1. [Speech](#speech)
+1. [Journals / Conferences / Institutes / Events](#journals--conferences--institutes--events)
+	1. [Journals](#journals)
+	1. [Conferences](#conferences)
+	1. [Institutes](#institutes)
+1. [Courses / Tutorials](#courses--tutorials)
+1. [Blogs / Communities](#blogs--communities)
+1. [Other Hungarian related resource collections](#other-hungarian-related-resource-collections)
+
+<!-- /MarkdownTOC -->
+
+## Tools
 
 Notations:
 
@@ -87,7 +110,7 @@ Notations:
 - [neural-punctuator](https://github.com/attilanagy234/neural-punctuator) 👌🚀💯 Automatic punctuation restoration with BERT models for English and Hungarian
 - [hunaccent](https://github.com/juditacs/hunaccent) 👌🚀💯 Small Footprint Diacritic Restoration for Hungarian
 
-## 2. Datasets
+## Datasets
 
 ### Corpora
 
@@ -141,9 +164,11 @@ Notations:
 - [BytePair Embeddings](https://bpemb.h-its.org/hu/) pretrained Subword Embeddings, downloadable in many formats
 
 ### Contextualized Embeddings
+
 - [ELMo Representations](https://github.com/HIT-SCIR/ELMoForManyLangs) Deep contextualized word representation trained for many languages
 
 ### Pretrained Transformer models
+
 - [`huBERT`](https://hlt.bme.hu/en/resources/hubert) Hungarian BERT base models trained on Webcorpus 2.0 and the Hungarian Wikipedia
 - [HIL* Transformer models](https://hilanco.github.io) Pretrained transformer models provided by HILANCO
 
@@ -169,16 +194,18 @@ Notations:
 - [Conceptnet](http://conceptnet.io/) An open, multilingual knowledge graph (with partial Hungarian support)
 
 ### Geo Data
+
 - [OpenStreetMap(OSM)](https://www.openstreetmap.org/)
   In [Hungary](http://download.geofabrik.de/europe/hungary.html) the [`name`](https://wiki.openstreetmap.org/wiki/Key:name) keys, [otherwise](https://planet.openstreetmap.org/) the [*name:hu](https://taginfo.openstreetmap.org/search?q=name%3Ahu)
 - [Natural-earth-vector](https://github.com/nvkelso/natural-earth-vector) ([`name_hu`](https://github.com/nvkelso/natural-earth-vector/blob/master/packages/Natural_Earth_quick_start/LOCALIZATION.md) imported from wikidata labels)
-- [Who's On First](https://whosonfirst.org/) is a gazetteer of places (with [Hungarian administrative places](https://github.com/whosonfirst-data/whosonfirst-data-admin-hu))
+- [Who's On First](https://whosonfirst.org/) is a gazetteer of places (with [Hungarian administrative places](https://github.com/whosonfirst-data/whosonfirst-data-admin-hu) )
+
 ### Speech
 
 - [Hungarian Single Speaker Speech Dataset](https://www.kaggle.com/bryanpark/hungarian-single-speaker-speech-dataset)
 
 
-## 3. Journals / Conferences / Institutes / Events
+## Journals / Conferences / Institutes / Events
 
 ### Journals
 
@@ -197,19 +224,19 @@ Notations:
   University](https://rgai.inf.u-szeged.hu/nlp)
 - [BME - Laboratory of Speech Acoustics](http://alpha.tmit.bme.hu/speech/)
 
-## 4. Courses / Tutorials
+## Courses / Tutorials
 
 TBD
 
 - [Tutorial on Text Mining for Hungarian](https://github.com/oroszgy/hungarian-text-mining-workshop)
 
-## 5. Blogs / Communities
+## Blogs / Communities
 
 - [Kereső világ](http://kereses.blog.hu/) Official blog of Precognox Inc.
 - [Hungarian NLP Meetup](https://www.meetup.com/Hungarian-nlp/)
 - [Deep Learning Reading Seminar Meetup](https://www.meetup.com/Budapest-Deep-Learning-Reading-Seminar/)
 
-## 6. Other Hungarian related resource collections
+## Other Hungarian related resource collections
 
 - [EENLP](https://github.com/altsoph/EENLP) The broad index of NLP resources for Eastern European languages.
 - [European Language Grid](https://live.european-language-grid.eu)
