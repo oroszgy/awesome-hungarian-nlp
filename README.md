@@ -30,11 +30,11 @@
       1. [Raw corpora](#raw-corpora)
       1. [Annotated corpora](#annotated-corpora)
       1. [Parallel corpora](#parallel-corpora)
-   1. [Linguistic Resources](#linguistic-resources)
+   1. [Linguistic resources](#linguistic-resources)
    1. [Linked Open Data](#linked-open-data)
-   1. [Geo Data](#geo-data)
+   1. [Geo data](#geo-data)
    1. [Speech related data](#speech-related-data)
-1. [Journals / Conferences / Institutes / Events](#journals--conferences--institutes--events)
+1. [Academy](#academy)
    1. [Journals](#journals)
    1. [Conferences](#conferences)
    1. [Institutes](#institutes)
@@ -42,7 +42,7 @@
    1. [Books](#books)
    1. [Courses](#courses)
    1. [Tutorials](#tutorials)
-1. [Blogs / Communities](#blogs--communities)
+1. [Communities](#communities)
 1. [Other Hungarian related resource collections](#other-hungarian-related-resource-collections)
 
 <!-- /MarkdownTOC -->
@@ -68,7 +68,7 @@ Notations:
 - [hunmorph-foma](https://github.com/r0ller/hunmorph-foma) 🚀💯 Hungarian morpholical analyzer and generator based on hunmorph.
 - [hunspell](http://hunspell.github.io/) 👌🚀💯 is an open-source spell-checker, stemmer and morphological analyzer
 - [lara-hungarian-nlp](https://github.com/sedthh/lara-hungarian-nlp) 👌🚀💯 LARA is a lightweight Python NLP library for ChatBots in Hungarian.
-- [Lemmagen](http://lemmatise.ijs.si/) 👌🚀💯 project aims at providing standardized open source multilingual platform for lemmatisation. ([Python package for v2](https://pypi.python.org/pypi/Lemmagen) | [C# project for v3](https://github.com/oroszgy/lemmagen3))
+- [Lemmagen](https://kt.ijs.si/sw) 👌🚀💯 project aims at providing standardized open source multilingual platform for lemmatisation. ([Python package for v3](https://pypi.org/project/lemmagen3/) | [C# project for v3](https://github.com/oroszgy/lemmagen3))
 
 ### PoS / Morphological taggers
 
@@ -80,7 +80,7 @@ Notations:
 
 - [HunTag](https://github.com/recski/HunTag) 👌🚀 A sequential tagger for NLP using Maximum Entropy Learning and Hidden Markov Models
 - [HunTag3](https://github.com/ppke-nlpg/HunTag3) 👌🚀 Improved version of the original HunTag
-- [SzegedNER](http://rgai.inf.u-szeged.hu/NER) 👌🚀💯 Named Entity Recognition tool for Hungarian and English
+- [SzegedNER](https://rgai.inf.u-szeged.hu/node/109) 👌🚀💯 Named Entity Recognition tool for Hungarian and English
 - [DBpedia Spotlight](https://github.com/dbpedia-spotlight/dbpedia-spotlight) 👌🚀💯  DBpedia Spotlight is a tool for automatically annotating mentions of DBpedia resources in text. [Docker image](https://hub.docker.com/r/dbpedia/spotlight-hungarian/)
 - [emBERT](https://github.com/DavidNemeskey/emBERT) 👌🚀💯 is an emtsv module for pre-trained Transfomer-based models. It provides tagging models based on Huggingface's transformers package.
 
@@ -99,7 +99,6 @@ Notations:
 - [StanfordNLP](https://github.com/stanfordnlp/stanfordnlp) 👌💯 is a Python NLP Library for Many Human Languages including Hungarian
 - [spaCy StanfordNLP](https://github.com/explosion/spacy-stanfordnlp) 👌💯 wraps the StanfordNLP library, so you can use Stanford's models as a spaCy pipeline
 - [trankit](https://github.com/nlp-uoregon/trankit) 👌🚀💯 A Light-Weight Transformer-based Python Toolkit for Multilingual Natural Language Processing
-- [whatlies](https://rasahq.github.io/whatlies/tutorial/scikit-learn/) 👌🚀💯 Pretrained language models and word embeddings for Scikit-Learn. Also supports Hungarian backends.
 
 ### Syntactic parsers
 
@@ -120,17 +119,17 @@ Notations:
 - [Hun-appointment-chatbot](https://github.com/szegedai/hun-appointment-chatbot) 👌🚀💯 A simple Hungarian chatbot for booking an appointment using the Rasa framework.
 - [neural-punctuator](https://github.com/attilanagy234/neural-punctuator) 👌🚀💯 Automatic punctuation restoration with BERT models for English and Hungarian
 - [hunaccent](https://github.com/juditacs/hunaccent) 👌🚀💯 Small Footprint Diacritic Restoration for Hungarian
-- [Diacritics_restoration](https://github.com/aielte-research/Diacritics_restoration) Lightweight Diacritics Restoration with Dilated Convolutional Neural Networks
-- [NYTK MT](https://github.com/nytud/machine-translation) NYTK Machine translation models
-- [syntax-augmentation-nmt](https://github.com/attilanagy234/syntax-augmentation-nmt) Syntax-based data augmentation for Hungarian-English machine translation 
-- [anonymizer_hu](https://github.com/nytud/anonymizer_hu) The Hungarian anonymization tool for CURLICAT
+- [Diacritics_restoration](https://github.com/aielte-research/Diacritics_restoration) 🚀💯 Lightweight Diacritics Restoration with Dilated Convolutional Neural Networks
+- [NYTK MT](https://github.com/nytud/machine-translation) 👌🚀💯 NYTK Machine translation models
+- [syntax-augmentation-nmt](https://github.com/attilanagy234/syntax-augmentation-nmt) 🚀💯 Syntax-based data augmentation for Hungarian-English machine translation 
+- [anonymizer_hu](https://github.com/nytud/anonymizer_hu) 🚀💯 The Hungarian anonymization tool for CURLICAT
 
 
 ## Language models
 
 ### Word embeddings
 
-- [FasText Wikipedia](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md) pre-trained word vectors for 90 languages, trained on Wikipedia using fastText.
+- [FasText Wikipedia](https://fasttext.cc/docs/en/pretrained-vectors.html) pre-trained word vectors for 90 languages, trained on Wikipedia using fastText.
 - [FasText Common Crawl & Wikipedia](https://fasttext.cc/docs/en/crawl-vectors.html) pre-trained word vectors for 157 languages, trained on Wikipedia and the Common Crawl using fastText's CBOW model.
 - [FastText_multilingual](https://github.com/Babylonpartners/fastText_multilingual) Multilingual word vectors in 78 languages
 - [polyglot vectors](https://sites.google.com/site/rmyeid/projects/polyglot) polgyglot embeddings on Wikipedia
@@ -172,7 +171,7 @@ Notations:
 - [Szeged Treebank](http://rgai.inf.u-szeged.hu/index.php?lang=en&page=SzegedTreebank) The Szeged Treebank is the largest fully manually annotated treebank of the Hungarian language
 - [Szeged Dependency Treebank](http://rgai.inf.u-szeged.hu/index.php?lang=en&page=dependency) The Szeged Dependency Treebank is a dependency-tree format version of the Szeged Treebank.
 - [Universal Dependencies](https://github.com/UniversalDependencies/UD_Hungarian)
-- [Hungarian Named Entity Corpora](http://rgai.inf.u-szeged.hu/index.php?lang=en&page=corpus_ne) The Named Entity Corpus for Hungarian is a subcorpus of the Szeged Treebank, which contains full syntactic annotations done manually by linguist experts.
+- [Hungarian Named Entity Corpora](https://rgai.inf.u-szeged.hu/node/130) The Named Entity Corpus for Hungarian is a subcorpus of the Szeged Treebank, which contains full syntactic annotations done manually by linguist experts.
 - [KorKorpusz](https://github.com/vadno/korkor_pilot) is a gold standard corpus consisting of multiple layers such as dependency parse and coreference annotations
 - [NerKor](https://github.com/dlt-rilmta/NerKor) is a gold standard named entity annotated corpus containing 1 million tokens.
 - [NerKor 1.41e](https://github.com/novakat/NYTK-NerKor-Cars-OntoNotesPP) A 1M+-token Hungarian named entity dataset with ~30 entity types derived from NYTK-NerKor
@@ -204,13 +203,13 @@ Notations:
 - [OpenSubtitles Corpus](https://opus.nlpl.eu/OpenSubtitles.php) contains movie subtitles and alignments for 62 languages, including Hungarian
 - [MASSIVE dataset](https://github.com/alexa/massive) is a parallel dataset of > 1M utterances across 51 languages with annotations for the Natural Language Understanding tasks of intent prediction and slot annotation.
 
-### Linguistic Resources
+### Linguistic resources
 
 - [morphdb.hu](http://mokk.bme.hu/resources/morphdb-hu/) is an open source morphological database of Hungarian, consisting of a lexicon and morphological grammar that are based on well-founded theoretical decisions.
 - [huwn](https://github.com/mmihaltz/huwn) Hungarian Wordnet
 - [Hungarian Sentiment Lexicon](http://opendata.hu/dataset/hungarian-sentiment-lexicon) The dictionaries were manually created on the basis of Wordnet-Affect lexicons.
 - [4lang](https://github.com/kornai/4lang) Concept dictionary using Eilenberg machines
-- [Named Entity lists for Hungarian](http://rgai.inf.u-szeged.hu/project/nlp/download/corpora/NER_dictionaries.zip)
+- [Named Entity lists for Hungarian](https://rgai.sed.hu/file/69#overlay-context=file/68)
 - [Mazsola ISZ](http://corpus.nytud.hu/isz/) lists 500K verb frames extracted from the Mazsola database
 - [Manocska](https://github.com/ppke-nlpg/manocska) merges verb frames existing databases
 - [PrevLex](https://github.com/kagnes/prevlex) List of phrasel verbs
@@ -225,7 +224,7 @@ Notations:
 - [huwn.rdf](https://github.com/mmihaltz/huwn.rdf) Hungarian WordNet in RDF format for the Linked Open Data cloud
 - [Conceptnet](http://conceptnet.io/) An open, multilingual knowledge graph (with partial Hungarian support)
 
-### Geo Data
+### Geo data
 
 - [OpenStreetMap(OSM)](https://www.openstreetmap.org/)
   In [Hungary](http://download.geofabrik.de/europe/hungary.html) the [`name`](https://wiki.openstreetmap.org/wiki/Key:name) keys, [otherwise](https://planet.openstreetmap.org/) the [\*name:hu](https://taginfo.openstreetmap.org/search?q=name%3Ahu)
@@ -238,7 +237,7 @@ Notations:
 - [Mozilla Common Voice](https://commonvoice.mozilla.org/hu/datasets)
 
 
-## Journals / Conferences / Institutes / Events
+## Academy
 
 ### Journals
 
@@ -246,16 +245,15 @@ Notations:
 
 ### Conferences
 
-- MSZNY (Conference on Hungarian Computational Linguistics) [2018](http://rgai.inf.u-szeged.hu/index.php?lang=hu&page=mszny2018) [2017](http://rgai.inf.u-szeged.hu/index.php?lang=hu&page=mszny2017) [2016](http://rgai.inf.u-szeged.hu/mszny2016/) [2015](http://rgai.inf.u-szeged.hu/mszny2015/) [2014](http://rgai.inf.u-szeged.hu/mszny2014/) [2013](http://www.inf.u-szeged.hu/projectdirs/mszny2013/) [2011](http://www.inf.u-szeged.hu/projectdirs/mszny2011/) [2010](http://www.inf.u-szeged.hu/projectdirs/mszny2010/) [2009](http://www.inf.u-szeged.hu/projectdirs/mszny2009/)
+- [MSZNY](https://rgai.inf.u-szeged.hu/mszny) Conference on Hungarian Computational Linguistics (since 2003)
 
 ### Institutes
 
 - [Natural Language Processing Group of the Pázmány Péter Catholic University Faculty of Information Tehnology and Bionics](http://nlpg.itk.ppke.hu/)
 - [Department of Language Technology and Applied Linguistics, RIL-MTA](http://www.nytud.hu/depts/delts/index.html)
 - [Human Language Technology Research Group of the Budapest University of Technology and Economics](http://hlt.bme.hu/en/)
-- [Natural Language Processing Group of the Szeged
-  University](https://rgai.inf.u-szeged.hu/nlp)
-- [BME - Laboratory of Speech Acoustics](http://alpha.tmit.bme.hu/speech/)
+- [Natural Language Processing Group of the SzegedUniversity](https://rgai.inf.u-szeged.hu/nlp)
+- [BME - Laboratory of Speech Acoustics](https://www.tmit.bme.hu/lsa)
 
 ## Learning resources
 
@@ -274,7 +272,7 @@ Notations:
 - [Mini NLP Course by the Center Of Digital Humanities](https://pim.hu/hu/digitalis-bolcseszeti-kozpont/nyelvtechnologia-kurzus)
 - [Tutorial on Text Mining for Hungarian](https://github.com/oroszgy/hungarian-text-mining-workshop)
 
-## Blogs / Communities
+## Communities
 
 - [Kereső világ](http://kereses.blog.hu/) Official blog of Precognox Inc.
 - [Hungarian NLP Meetup](https://www.meetup.com/Hungarian-nlp/)
@@ -285,4 +283,4 @@ Notations:
 
 - [EENLP](https://github.com/altsoph/EENLP) The broad index of NLP resources for Eastern European languages.
 - [European Language Grid](https://live.european-language-grid.eu)
-- [Hugging Face Datasets](https://huggingface.co/datasets?languages=languages:hu&sort=alphabetical)
+- [Hugging Face Datasets (filtered for Hungarian)](https://huggingface.co/datasets?languages=languages:hu&sort=alphabetical)
