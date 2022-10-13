@@ -260,8 +260,9 @@ Notations:
 
 ### Books
 
-- [Text Mining](https://www.typotex.hu/book/45/tikk_domonkos_szovegbanyaszat/00)
-- [Text Mining and Artificial Intelligence in R](https://tankonyv.poltextlab.com)
+- [Szövegbányászat](https://www.typotex.hu/book/45/tikk_domonkos_szovegbanyaszat/00)
+- [Szövegbányászat és mesterséges intelligencia R-ben](https://tankonyv.poltextlab.com)
+- [Kvantitatív szövegelemzés és szövegbányászat a politikatudományban](https://poltextlab.tk.hu/uploads/files/Kvantitativ_szovegelemzes_keszpdf.pdf)
 
 ### Courses
 
