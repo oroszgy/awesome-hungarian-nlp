@@ -201,6 +201,7 @@ Notations:
 - [Duolingo STAPLE](http://sharedtask.duolingo.com/) is a dataset of comprehensive accepted translations from English to 5 different languages, including Hungarian
 - [PPDB](http://paraphrase.org/#/download) is an automatically extracted database containing millions of paraphrases in 16 different languages, including Hungarian
 - [OpenSubtitles Corpus](https://opus.nlpl.eu/OpenSubtitles.php) contains movie subtitles and alignments for 62 languages, including Hungarian
+- [OPUS Corpus][https://opus.nlpl.eu] is a growing collection of translated texts from the web
 - [MASSIVE dataset](https://github.com/alexa/massive) is a parallel dataset of > 1M utterances across 51 languages with annotations for the Natural Language Understanding tasks of intent prediction and slot annotation.
 
 ### Linguistic resources
