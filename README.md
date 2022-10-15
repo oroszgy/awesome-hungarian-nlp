@@ -173,7 +173,7 @@ Notations:
 - [Szeged Dependency Treebank](http://rgai.inf.u-szeged.hu/index.php?lang=en&page=dependency) The Szeged Dependency Treebank is a dependency-tree format version of the Szeged Treebank.
 - [Universal Dependencies](https://github.com/UniversalDependencies/UD_Hungarian)
 - [Hungarian Named Entity Corpora](https://rgai.inf.u-szeged.hu/node/130) The Named Entity Corpus for Hungarian is a subcorpus of the Szeged Treebank, which contains full syntactic annotations done manually by linguist experts.
-- [KorKorpusz](https://github.com/vadno/korkor_pilot) is a gold standard corpus consisting of multiple layers such as dependency parse and coreference annotations
+- [KorKor Pilotcorpus](https://github.com/vadno/korkor_pilot) is a gold standard corpus consisting of multiple layers such as dependency parse and coreference annotations
 - [NerKor](https://github.com/dlt-rilmta/NerKor) is a gold standard named entity annotated corpus containing 1 million tokens.
 - [NerKor 1.41e](https://github.com/novakat/NYTK-NerKor-Cars-OntoNotesPP) A 1M+-token Hungarian named entity dataset with ~30 entity types derived from NYTK-NerKor
 - [hunNERwiki](http://hlt.sztaki.hu/resources/hunnerwiki.html) a silver standard corpus for Hungarian Named Entity Recognition
@@ -186,6 +186,7 @@ Notations:
    - [HuCoPA](https://github.com/nytud/HuCoPA) Hungarian Choice of Plausible Alternatives Corpus
    - [HuSST](https://github.com/nytud/HuSST) Hungarian version of the Sentiment Treebank
    - [HuWNLI](https://github.com/nytud/HuWNLI) Anaphora resolution datasets for Hungarian as an inference task
+   - [HuWS](https://github.com/nytud/HuWS) Hungarian set of the Winograd schemas
 - [HuRC](https://huggingface.co/datasets/NYTK/HuRC) Hungarian Corpus for Reading Comprehension with Commonsense Reasoning
 
 #### Parallel corpora
