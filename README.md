@@ -69,6 +69,7 @@ Notations:
 - [hunspell](http://hunspell.github.io/) 👌🚀💯 is an open-source spell-checker, stemmer and morphological analyzer
 - [lara-hungarian-nlp](https://github.com/sedthh/lara-hungarian-nlp) 👌🚀💯 LARA is a lightweight Python NLP library for ChatBots in Hungarian.
 - [Lemmagen](https://kt.ijs.si/sw) 👌🚀💯 project aims at providing standardized open source multilingual platform for lemmatisation. ([Python package for v3](https://pypi.org/project/lemmagen3/) | [C# project for v3](https://github.com/oroszgy/lemmagen3))
+- [Simplemma](https://github.com/adbar/simplemma) 👌🚀💯 is a simple multilingual lemmatizer for Python
 
 ### PoS / Morphological taggers
 
@@ -186,7 +187,7 @@ Notations:
    - [HuCoPA](https://github.com/nytud/HuCoPA) Hungarian Choice of Plausible Alternatives Corpus
    - [HuSST](https://github.com/nytud/HuSST) Hungarian version of the Sentiment Treebank
    - [HuWNLI](https://github.com/nytud/HuWNLI) Anaphora resolution datasets for Hungarian as an inference task
-   - [HuWS](https://github.com/nytud/HuWS) Hungarian set of the Winograd schemas
+   - [HuWS](https://github.com/nytud/HuWS) is the Hungarian set of the Winograd schemas
 - [HuRC](https://huggingface.co/datasets/NYTK/HuRC) Hungarian Corpus for Reading Comprehension with Commonsense Reasoning
 
 #### Parallel corpora
