@@ -189,6 +189,9 @@ Notations:
    - [HuWNLI](https://github.com/nytud/HuWNLI) Anaphora resolution datasets for Hungarian as an inference task
    - [HuWS](https://github.com/nytud/HuWS) is the Hungarian set of the Winograd schemas
 - [HuRC](https://huggingface.co/datasets/NYTK/HuRC) Hungarian Corpus for Reading Comprehension with Commonsense Reasoning
+- [ELTE Poetry Corpus](https://github.com/ELTE-DH/poetry-corpus) is a database of complete poems of 50 Hungarian canonical poets together with the sound devices of the poems and the grammatical features of words in XML format
+- [ELTE Novel Corpus](https://github.com/ELTE-DH/regenykorpusz) is a database of 400 Hungarian novels (with the annotation of structural units and the grammatical features of words in TEI XML format)
+- [ELTE Drama Corpus](https://github.com/ELTE-DH/drama-corpus) is a database of 58 dramas (with the annotation of structural units and the grammatical features of words in TEI XML format)
 
 #### Parallel corpora
 
