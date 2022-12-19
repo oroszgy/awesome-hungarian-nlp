@@ -68,7 +68,7 @@ Notations:
 - [hunmorph-foma](https://github.com/r0ller/hunmorph-foma) 🚀💯 Hungarian morpholical analyzer and generator based on hunmorph.
 - [hunspell](http://hunspell.github.io/) 👌🚀💯 is an open-source spell-checker, stemmer and morphological analyzer
 - [lara-hungarian-nlp](https://github.com/sedthh/lara-hungarian-nlp) 👌🚀💯 LARA is a lightweight Python NLP library for ChatBots in Hungarian.
-- [Lemmagen](https://kt.ijs.si/sw) 👌🚀💯 project aims at providing standardized open source multilingual platform for lemmatisation. ([Python package for v3](https://pypi.org/project/lemmagen3/) | [C# project for v3](https://github.com/oroszgy/lemmagen3))
+- [Lemmagen](https://kt.ijs.si/software/lemmagen/) 👌🚀💯 project aims at providing standardized open source multilingual platform for lemmatisation. ([Python package for v3](https://pypi.org/project/lemmagen3/) | [C# project for v3](https://github.com/oroszgy/lemmagen3))
 - [Simplemma](https://github.com/adbar/simplemma) 👌🚀💯 is a simple multilingual lemmatizer for Python
 
 ### PoS / Morphological taggers
