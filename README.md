@@ -106,12 +106,13 @@ Notations:
 - [hunpars](http://mokk.bme.hu/resources/hunpars/) 🚀💯 A rule based Hungarian syntactical analyzer
 - [HunParse](https://github.com/recski/HunParse) 🚀💯 An NLTK-based parser using KR-style morphological annotation
 - [Anagramma Parser](https://github.com/ppke-nlpg/AnaGramma-Parser) A parser based on psycholinguistics principles
-- [benepar](https://github.com/nikitakit/self-attentive-parser) A high-accuracy parser with models for 11 languages, implemented in Python. Based on Constituency Parsing with a Self-Attentive Encoder from ACL 2018.
+- [benepar](https://github.com/nikitakit/self-attentive-parser) 👌🚀💯 A high-accuracy parser with models for 11 languages, implemented in Python. Based on Constituency Parsing with a Self-Attentive Encoder from ACL 2018.
 
 ### Semantic analysis
 
 - [SentimentAnalysisHUN](https://github.com/dhuszti/SentimentAnalysisHUN) 👌🚀💯 is an open-source sentiment analysis tool for Hungarian language, written in Python.
 - [hun-date-parser](https://github.com/szegedai/hun-date-parser) 👌🚀💯 A tool for extracting datetime intervals from Hungarian sentences and turning datetime objects into Hungarian text.
+- SZTAKI HunSum-1 models 👌🚀💯 [mT5-small-HunSum-1](https://huggingface.co/SZTAKI-HLT/mT5-small-HunSum-1), [mT5-base-HunSum-1](https://huggingface.co/SZTAKI-HLT/mT5-base-HunSum-1), [Bert2Bert-HunSum-1](https://huggingface.co/SZTAKI-HLT/Bert2Bert-HunSum-1), 
 
 ### Other
 
