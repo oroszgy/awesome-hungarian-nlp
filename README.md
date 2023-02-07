@@ -198,6 +198,7 @@ Notations:
 - [ELTE Novel Corpus](https://github.com/ELTE-DH/regenykorpusz) is a database of 400 Hungarian novels (with the annotation of structural units and the grammatical features of words in TEI XML format)
 - [ELTE Drama Corpus](https://github.com/ELTE-DH/drama-corpus) is a database of 58 dramas (with the annotation of structural units and the grammatical features of words in TEI XML format)
 - [HumSum-1](https://huggingface.co/datasets/SZTAKI-HLT/HunSum-1) is a dataset containing over 1.1M unique news articles with lead and other metadata
+- [HAPP](https://github.com/nytud/HAPP) is the Hungarian translation of the [Definite Pronoun Resolution Dataset](https://www.hlt.utdallas.edu/~vince/data/emnlp12/).
 
 #### Parallel corpora
 
@@ -214,6 +215,7 @@ Notations:
 - [OpenSubtitles Corpus](https://opus.nlpl.eu/OpenSubtitles.php) contains movie subtitles and alignments for 62 languages, including Hungarian
 - [OPUS Corpus][https://opus.nlpl.eu] is a growing collection of translated texts from the web
 - [MASSIVE dataset](https://github.com/alexa/massive) is a parallel dataset of > 1M utterances across 51 languages with annotations for the Natural Language Understanding tasks of intent prediction and slot annotation.
+- [PWS](https://github.com/nytud/PWS) is a parallel collection of the Winograd schemas in seven languages (including Hungarian)
 
 ### Linguistic resources
 
