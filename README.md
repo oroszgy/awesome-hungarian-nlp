@@ -89,6 +89,7 @@ Notations:
 
 - [magyarlanc](http://rgai.inf.u-szeged.hu/magyarlanc) 👌💯 A toolkit for the basic linguistic processing of Hungarian
 - [magyarlanc_spark](https://github.com/tyson925/magyarlanc_spark) 👌💯 Spark wrapper for magyarlanc
+- [eszterland](https://github.com/damesek/eszterlanc) 👌💯 Clojurized access to magyarlanc
 - [HuSpaCy](https://github.com/huspacy/huspacy) 👌🚀💯 Industrial-strength Hungarian Natural Language Processing
 - [huNLP](https://github.com/oroszgy/hunlp) 👌💯 An experimental unified Java and REST API for magyarlanc and szegedNER
 - [hunlp-GATE](https://github.com/dlt-rilmta/hunlp-GATE) 💯 GATE plugin containing Hungarian NLP tools as GATE processing resources
