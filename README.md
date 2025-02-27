@@ -82,7 +82,7 @@ Notations:
 - [HunTag](https://github.com/recski/HunTag) 👌🚀 A sequential tagger for NLP using Maximum Entropy Learning and Hidden Markov Models
 - [HunTag3](https://github.com/ppke-nlpg/HunTag3) 👌🚀 Improved version of the original HunTag
 - [SzegedNER](https://rgai.inf.u-szeged.hu/node/109) 👌🚀💯 Named Entity Recognition tool for Hungarian and English
-- [DBpedia Spotlight](https://github.com/dbpedia-spotlight/dbpedia-spotlight) 👌🚀💯  DBpedia Spotlight is a tool for automatically annotating mentions of DBpedia resources in text. [Docker image](https://hub.docker.com/r/dbpedia/spotlight-hungarian/)
+- [DBpedia Spotlight](https://github.com/dbpedia-spotlight/dbpedia-spotlight) 👌🚀💯  DBpedia Spotlight is a tool for automatically annotating mentions of DBpedia resources in text. [Docker image](https://hub.docker.com/r/dbpedia/dbpedia-spotlight)
 - [emBERT](https://github.com/DavidNemeskey/emBERT) 👌🚀💯 is an emtsv module for pre-trained Transfomer-based models. It provides tagging models based on Huggingface's transformers package.
 
 ### Pipelines with Hungarian NLP components
@@ -217,7 +217,7 @@ is a dataset and leaderboard comparing 100+ text embedding models across 1000+ l
 - [ELTE Novel Corpus](https://github.com/ELTE-DH/regenykorpusz) is a database of 400 Hungarian novels (with the annotation of structural units and the grammatical features of words in TEI XML format)
 - [ELTE Drama Corpus](https://github.com/ELTE-DH/drama-corpus) is a database of 58 dramas (with the annotation of structural units and the grammatical features of words in TEI XML format)
 - [HumSum-1](https://huggingface.co/datasets/SZTAKI-HLT/HunSum-1) is a dataset containing over 1.1M unique news articles with lead and other metadata
-- [HAPP](https://github.com/nytud/HAPP) is the Hungarian translation of the [Definite Pronoun Resolution Dataset](https://www.hlt.utdallas.edu/~vince/data/emnlp12/).
+- [HAPP](https://github.com/nytud/HAPP) is the Hungarian translation of the Definite Pronoun Resolution Dataset
 
 #### Parallel corpora
 
@@ -231,7 +231,7 @@ is a dataset and leaderboard comparing 100+ text embedding models across 1000+ l
 - [TaPaCo Corpus](https://zenodo.org/record/3707949) is a paraphrase corpus for 73 languages, including Hungarian, extracted from the Tatoeba database
 - [Duolingo STAPLE](http://sharedtask.duolingo.com/) is a dataset of comprehensive accepted translations from English to 5 different languages, including Hungarian
 - [PPDB](http://paraphrase.org/#/download) is an automatically extracted database containing millions of paraphrases in 16 different languages, including Hungarian
-- [OpenSubtitles Corpus](https://opus.nlpl.eu/OpenSubtitles.php) contains movie subtitles and alignments for 62 languages, including Hungarian
+- [OpenSubtitles Corpus](https://opus.nlpl.eu/OpenSubtitles/corpus/version/OpenSubtitles) contains movie subtitles and alignments for 62 languages, including Hungarian
 - [OPUS Corpus][https://opus.nlpl.eu] is a growing collection of translated texts from the web
 - [MASSIVE dataset](https://github.com/alexa/massive) is a parallel dataset of > 1M utterances across 51 languages with annotations for the Natural Language Understanding tasks of intent prediction and slot annotation.
 - [PWS](https://github.com/nytud/PWS) is a parallel collection of the Winograd schemas in seven languages (including Hungarian)
@@ -326,4 +326,4 @@ is a dataset and leaderboard comparing 100+ text embedding models across 1000+ l
 
 - [EENLP](https://github.com/altsoph/EENLP) The broad index of NLP resources for Eastern European languages.
 - [European Language Grid](https://live.european-language-grid.eu)
-- [Hugging Face Datasets (filtered for Hungarian)](https://huggingface.co/datasets?languages=languages:hu&sort=alphabetical)
+- [Hugging Face Datasets (filtered for Hungarian)](https://huggingface.co/datasets?language=language:hu)
