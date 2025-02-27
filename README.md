@@ -157,14 +157,13 @@ Notations:
 - [`huBERT`](https://hlt.bme.hu/en/resources/hubert) Hungarian BERT base models trained on Webcorpus 2.0 and the Hungarian Wikipedia
 - [HIL* Transformer models](https://hilanco.github.io) Pretrained transformer models provided by HILANCO
 - [PULI-BERT-Large](https://huggingface.co/NYTK/PULI-BERT-Large) is a Hungarian BERT large model based on MegatronBERT
+
+### Large Language models
+
 - [PULI-GPTrio](https://huggingface.co/NYTK/PULI-GPTrio) is a Hungarian-English-Chinese trilingual GPT-NeoX model 
 - [PULI-GPT-3SX](https://huggingface.co/NYTK/PULI-GPT-3SX) is a Hungarian GPT-NeoX model
 - [SambaLingo-Hungarian-Base](https://huggingface.co/sambanovasystems/SambaLingo-Hungarian-Base)  is a pretrained Bi-lingual Hungarian and English model that adapts Llama-2-7b to Hungarian by training on 59 billion tokens from the Hungarian split of the Cultura-X dataset
 - [SambaLingo-Hungarian-Chat](https://huggingface.co/sambanovasystems/SambaLingo-Hungarian-Chat) is a human aligned chat model trained in Hungarian and English
-
-### Large Language models
-
-
 - [PULI-GPT-2](https://huggingface.co/NYTK/PULI-GPT-2) is a Hungarian GPT-2 model
 - [PULI-GPT-3SX](https://huggingface.co/NYTK/PULI-GPT-3SX) is a Hungarian GPT-NeoX model (6.7 billion parameter)
 
