@@ -177,6 +177,8 @@ is a dataset and leaderboard comparing 100+ text embedding models across 1000+ l
 
 ### Corpora
 
+- The Hungarian [National Corpus Portal](http://corpus.nytud.hu/nkp/) lists 15 corpora with a links to their main page _(főoldal)_, concordance _(kereső)_, registration page (if needed, _regisztráció_), and contact e-mail _(kapcsolat)._
+
 #### Raw corpora
 
 - [Hungarian Webcorpus](http://mokk.bme.hu/resources/webcorpus/) With over 1.48 billion words unfiltered (589 million words fully filtered), this is by far the largest Hungarian language corpus, and unlike the Hungarian National Corpus (125 million words), it is available in its entirety under a permissive Open Content license.
