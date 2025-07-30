@@ -178,6 +178,7 @@ Notations:
 ### LLM Benchmarks
 
 - [HuLU evaluate](https://github.com/nytud/HuLU-evaluate) is a library for evaluating and training language models on Hungarian tasks within the HuLU benchmark.
+- [OpenHuEval](https://github.com/opendatalab/OpenHuEval) is an LLM benchmark focusing on the Hungarian language.
 - [(M)MTEB](https://huggingface.co/spaces/mteb/leaderboard) 
 is a dataset and leaderboard comparing 100+ text embedding models across 1000+ languages including Hungarian.
 
