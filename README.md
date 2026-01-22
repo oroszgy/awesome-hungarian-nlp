@@ -176,6 +176,7 @@ Notations:
 - [PULI-GPT-3SX](https://huggingface.co/NYTK/PULI-GPT-3SX) is a Hungarian GPT-NeoX model (6.7 billion parameter)
 - [OpenEuroLLM-Hungarian](https://ollama.com/jobautomation/OpenEuroLLM-Hungarian) is a fine-tuned version of Gemma 3 optimized for Hungarian language responses.
 - [Racka 4B](https://huggingface.co/elte-nlp/Racka-4B) is a continually pretrained large language model designed to bridge the resource gap between Hungarian and high-resource languages
+- [MangaliCa](https://huggingface.co/Obscure-Entropy/MangaliCa) is the first publicly available Hungarian–English bilingual vision–language model designed for image captioning and image–text retrieval.
 
 ### LLM Benchmarks
 
