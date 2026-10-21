@@ -15,8 +15,8 @@
 1. [Tools](#tools)
    1. [Word tokenization, sentence splitting](#word-tokenization-sentence-splitting)
    1. [Morphology](#morphology)
-   1. [PoS / Morphological taggers](#pos--morphological-taggers)
-   1. [Taggers / Chunkers](#taggers--chunkers)
+   1. [PoS / morphological taggers](#pos--morphological-taggers)
+   1. [Taggers / chunkers](#taggers--chunkers)
    1. [Pipelines with Hungarian NLP components](#pipelines-with-hungarian-nlp-components)
    1. [Syntactic parsers](#syntactic-parsers)
    1. [Semantic analysis](#semantic-analysis)
@@ -32,7 +32,7 @@
    1. [Large language models](#large-language-models)
       1. [General multilingual large language models](#general-multilingual-large-language-models)
       1. [Large language models developed for Hungarian use cases](#large-language-models-developed-for-hungarian-use-cases)
-   1. [LLM Benchmarks](#llm-benchmarks)
+   1. [LLM benchmarks](#llm-benchmarks)
 1. [Datasets](#datasets)
    1. [Corpora](#corpora)
       1. [Raw corpora](#raw-corpora)
@@ -76,26 +76,26 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 - [emMorph (Humor)](https://github.com/dlt-rilmta/emMorph) 💯 Hungarian morphological analyzer based on Humor
 - [emMorphPy](https://github.com/ppke-nlpg/emmorphpy) 👌💯 A wrapper, a lemmatizer and REST API implemented in Python for emMorph (Humor) Hungarian morphological analyzer
-- [hunmorph](http://mokk.bme.hu/resources/hunmorph/) 🚀💯 is an open source tool and programming library for spell-checking, stemming and morphological analysing of agglutinative, german and other languages.
+- [hunmorph](http://mokk.bme.hu/resources/hunmorph/) 🚀💯 is an open source tool and programming library for spell-checking, stemming and morphological analysing of agglutinative, German and other languages.
 - [hunmorph-foma](https://github.com/r0ller/hunmorph-foma) 🚀💯 Hungarian morphological analyzer and generator based on hunmorph.
 - [hunspell](https://hunspell.github.io/) 👌🚀💯 is an open-source spell-checker, stemmer and morphological analyzer
 - [Lemmagen](https://kt.ijs.si/software/lemmagen/) 👌🚀💯 project aims at providing standardized open source multilingual platform for lemmatisation. ([Python package for v3](https://pypi.org/project/lemmagen3/) | [C# project for v3](https://github.com/oroszgy/lemmagen3))
 - [Simplemma](https://github.com/adbar/simplemma) 👌🚀💯 is a simple multilingual lemmatizer for Python
 - [SampoNLP](https://github.com/AragonerUA/SampoNLP) 👌🚀💯 Unsupervised morpheme discovery for Uralic languages including Hungarian, with a Rust core
 
-### PoS / Morphological taggers
+### PoS / morphological taggers
 
 - [hunpos](http://mokk.bme.hu/resources/hunpos/) 👌🚀💯 Hunpos is an open source reimplementation of TnT, the well known part-of-speech tagger by Thorsten Brants.
 - [PurePos](https://github.com/ppke-nlpg/purepos) 👌🚀 Open source morphological tagger based on HunPos
 - [purepos.py](https://github.com/ppke-nlpg/purepos.py) 👌🚀 Python wrapper for PurePos
 
-### Taggers / Chunkers
+### Taggers / chunkers
 
 - [HunTag](https://github.com/recski/HunTag) 👌🚀 A sequential tagger for NLP using Maximum Entropy Learning and Hidden Markov Models
 - [HunTag3](https://github.com/ppke-nlpg/HunTag3) 👌🚀 Improved version of the original HunTag
 - [SzegedNER](https://rgai.inf.u-szeged.hu/node/109) 👌🚀💯 Named Entity Recognition tool for Hungarian and English
 - [DBpedia Spotlight](https://github.com/dbpedia-spotlight/dbpedia-spotlight) 👌🚀💯  DBpedia Spotlight is a tool for automatically annotating mentions of DBpedia resources in text. [Docker image](https://hub.docker.com/r/dbpedia/dbpedia-spotlight)
-- [emBERT](https://github.com/DavidNemeskey/emBERT) 👌🚀💯 is an emtsv module for pre-trained Transformer-based models. It provides tagging models based on Huggingface's transformers package.
+- [emBERT](https://github.com/DavidNemeskey/emBERT) 👌🚀💯 is an emtsv module for pre-trained Transformer-based models. It provides tagging models based on Hugging Face's transformers package.
 
 ### Pipelines with Hungarian NLP components
 
@@ -224,7 +224,7 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 - [MangaliCa](https://huggingface.co/Obscure-Entropy/MangaliCa) is a Hungarian–English bilingual vision–language model designed for image captioning and image–text retrieval.
 - [HunMamba2-780M](https://huggingface.co/magyar-nlp-szine-java/mamba2-780-pretrained) 780M Hungarian Mamba2 language model trained on Europarl and FineWeb-HQ
 
-### LLM Benchmarks
+### LLM benchmarks
 
 - [HuLU evaluate](https://github.com/nytud/HuLU/tree/master/evaluate) is a library for evaluating and training language models on Hungarian tasks within the HuLU benchmark.
 - [OpenHuEval](https://github.com/opendatalab/OpenHuEval) is an LLM benchmark focusing on the Hungarian language.
