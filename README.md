@@ -230,9 +230,9 @@ Notations:
 
 #### Raw corpora
 
-- [Hungarian Webcorpus](http://mokk.bme.hu/resources/webcorpus/) With over 1.48 billion words unfiltered (589 million words fully filtered), this is by far the largest Hungarian language corpus, and unlike the Hungarian National Corpus (125 million words), it is available in its entirety under a permissive Open Content license.
+- [Hungarian Webcorpus](http://mokk.bme.hu/resources/webcorpus/) An early large Hungarian web corpus, available in its entirety under a permissive Open Content license.
 - [Hungarian Webcorpus 2.0](https://hlt.bme.hu/en/resources/webcorpus2) The new version of the Hungarian Webcorpus was built from Common Crawl and includes a little over 9 billion words.
-- [OSCAR](https://traces1.inria.fr/oscar/) is a huge multilingual corpus obtained by language classification and filtering of the Common Crawl corpus using the goclassy architecture. (2339 million unique words)
+- [OSCAR](https://oscar-project.org/) is a huge multilingual corpus obtained by language classification and filtering of the Common Crawl corpus using the goclassy architecture.
 - [emLam](https://hlt.bme.hu/en/resources/emLam) A Language Modeling Benchmark Corpus for Hungarian, similar to the One Billion Word corpus (Chelba, 2014) for English.
 - [Leipzig corpora](https://wortschatz.uni-leipzig.de/en/download/) contains randomly selected sentences in the language of the corpus and are available in sizes from 10,000 sentences up to 1 million sentences. The sources are either newspaper texts or texts randomly collected from the web.
 - [web2corpus](https://ufal.mff.cuni.cz/w2c) Automatically created multilingual web corpus
@@ -250,7 +250,7 @@ Notations:
 - [OpinHuBank](https://sites.google.com/site/mmihaltz/resources) OpinHuBank is a human-annotated corpus to aid the research of opinion mining and sentiment analysis in Hungarian
 - [HunEmPoli](https://github.com/uveges/HunEmPoli_corpus) corpus was built using pre-agenda speeches of the Hungarian National Assembly (2014-2018) and consists 764008 tokens/36475 sentences. Aspect level emotion annotation, with 39840 identified emotions, in addition, marked the keywords that evoked the emotion.
 - [The Hungarian forum corpus for Opinion Mining](https://rgai.inf.u-szeged.hu/index.php?lang=en&page=corpus_forum) This database is the first one dedicated to Opinion Mining in Hungarian. The data for further processing were gathered from the posts of the forum topic of the Hungarian government portal dealing with the referendum about dual citizenship.
-- [Hungarian sentiment corpus (HuSent)](https://rgai.inf.u-szeged.hu/node/363) is a deeply annotated Hungarian sentiment corpus. It is composed of Hungarian opinion texts written about different types of products, published on the homepage [https://divany.hu/]
+- [Hungarian sentiment corpus (HuSent)](https://rgai.inf.u-szeged.hu/node/363) is a deeply annotated Hungarian sentiment corpus. It is composed of Hungarian opinion texts written about different types of products, published on the homepage <https://divany.hu/>
 - [Szeged Treebank](https://rgai.inf.u-szeged.hu/index.php?lang=en&page=SzegedTreebank) The Szeged Treebank is the largest fully manually annotated treebank of the Hungarian language
 - [Szeged Dependency Treebank](https://rgai.inf.u-szeged.hu/index.php?lang=en&page=dependency) The Szeged Dependency Treebank is a dependency-tree format version of the Szeged Treebank.
 - [Universal Dependencies](https://github.com/UniversalDependencies/UD_Hungarian)
@@ -330,7 +330,7 @@ Notations:
 
 - [Wikipedia dumps](https://dumps.wikimedia.org/huwiki/)
 - [Wikidata dumps](https://www.wikidata.org/wiki/Wikidata:Database_download)
-- [DBPedia dumps](http://downloads.dbpedia.org/3.9/hu/)
+- [DBPedia dumps](https://databus.dbpedia.org/dbpedia/collections/core-i18n)
 - [huwn.rdf](https://github.com/mmihaltz/huwn.rdf) Hungarian WordNet in RDF format for the Linked Open Data cloud
 - [Conceptnet](https://conceptnet.io/) An open, multilingual knowledge graph (with partial Hungarian support)
 
@@ -368,7 +368,7 @@ Notations:
 
 ### Institutes
 
-- [Natural Language Processing Group of the Pázmány Péter Catholic University Faculty of Information Tehnology and Bionics](https://nlpg.itk.ppke.hu/)
+- [Natural Language Processing Group of the Pázmány Péter Catholic University Faculty of Information Technology and Bionics](https://itk.ppke.hu/)
 - [Department of Language Technology and Applied Linguistics, RIL-MTA](https://nytud.hu/kutatocsoport/nyelvtechnologiai-kutatocsoport)
 - [Human Language Technology Research Group of the Budapest University of Technology and Economics](https://hlt.bme.hu/en/)
 - [Natural Language Processing Group of the University of Szeged](https://rgai.inf.u-szeged.hu/nlp)
