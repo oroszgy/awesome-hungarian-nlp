@@ -69,7 +69,7 @@ Notations:
 - [emMorphPy](https://github.com/ppke-nlpg/emmorphpy) 👌💯A wrapper, a lemmatizer and REST API implemented in Python for emMorph (Humor) Hungarian morphological analyzer
 - [hunmorph](http://mokk.bme.hu/resources/hunmorph/) 🚀💯 is an open source tool and programming library for spell-checking, stemming and morphological analysing of agglutinative, german and other languages.
 - [hunmorph-foma](https://github.com/r0ller/hunmorph-foma) 🚀💯 Hungarian morpholical analyzer and generator based on hunmorph.
-- [hunspell](http://hunspell.github.io/) 👌🚀💯 is an open-source spell-checker, stemmer and morphological analyzer
+- [hunspell](https://hunspell.github.io/) 👌🚀💯 is an open-source spell-checker, stemmer and morphological analyzer
 - [lara-hungarian-nlp](https://github.com/sedthh/lara-hungarian-nlp) 👌🚀💯 LARA is a lightweight Python NLP library for ChatBots in Hungarian.
 - [Lemmagen](https://kt.ijs.si/software/lemmagen/) 👌🚀💯 project aims at providing standardized open source multilingual platform for lemmatisation. ([Python package for v3](https://pypi.org/project/lemmagen3/) | [C# project for v3](https://github.com/oroszgy/lemmagen3))
 - [Simplemma](https://github.com/adbar/simplemma) 👌🚀💯 is a simple multilingual lemmatizer for Python
@@ -90,7 +90,7 @@ Notations:
 
 ### Pipelines with Hungarian NLP components
 
-- [magyarlanc](http://rgai.inf.u-szeged.hu/magyarlanc) 👌💯 A toolkit for the basic linguistic processing of Hungarian
+- [magyarlanc](https://rgai.inf.u-szeged.hu/magyarlanc) 👌💯 A toolkit for the basic linguistic processing of Hungarian
 - [magyarlanc_spark](https://github.com/tyson925/magyarlanc_spark) 👌💯 Spark wrapper for magyarlanc
 - [eszterland](https://github.com/damesek/eszterlanc) 👌💯 Clojurized access to magyarlanc
 - [HuSpaCy](https://github.com/huspacy/huspacy) 👌🚀💯 Industrial-strength Hungarian Natural Language Processing
@@ -98,8 +98,8 @@ Notations:
 - [hunlp-GATE](https://github.com/dlt-rilmta/hunlp-GATE) 💯 GATE plugin containing Hungarian NLP tools as GATE processing resources
 - [Trendminer Hungarian Processing Pipeline](https://github.com/mmihaltz/trendminer-hunlp) 🚀 Hungarian NLP pipeline for social media text analysis (TrendMiner project)
 - [Google Syntaxnet](https://research.googleblog.com/2017/03/an-upgrade-to-syntaxnet-new-models-and.html) 🚀💯 Neural Models of Syntax
-- [UDPipe](http://ufal.mff.cuni.cz/udpipe) 👌🚀💯 is a trainable pipeline for tokenization, tagging, lemmatization and dependency parsing of CoNLL-U files
-- [polyglot](http://polyglot.readthedocs.io/en/latest/index.html) 👌🚀💯 is a natural language pipeline that supports massive multilingual applications.
+- [UDPipe](https://ufal.mff.cuni.cz/udpipe) 👌🚀💯 is a trainable pipeline for tokenization, tagging, lemmatization and dependency parsing of CoNLL-U files
+- [polyglot](https://polyglot.readthedocs.io/en/latest/index.html) 👌🚀💯 is a natural language pipeline that supports massive multilingual applications.
 - [emtsv](https://github.com/dlt-rilmta/emtsv) 👌💯 is a text processing system with inter-module communication via tsv + REST API
 - [Stanza](https://github.com/stanfordnlp/stanza) 👌🚀💯 is a Python NLP Library for Many Human Languages
 - [spaCy StanfordNLP](https://github.com/explosion/spacy-stanfordnlp) 👌🚀💯 wraps the StanfordNLP library, so you can use Stanford's models as a spaCy pipeline
@@ -143,7 +143,7 @@ Notations:
 - [polyglot vectors](https://sites.google.com/site/rmyeid/projects/polyglot) polgyglot embeddings on Wikipedia
 - [wordvectors](https://github.com/Kyubyong/wordvectors) Pre-trained word2vec and fasttext word vectors on wikipedia of 30+ languages
 - [hunembed0.0](http://corpus.nytud.hu/efnilex-vect/) A word2vec word embedding trained on the concatenation of the Hungarian Webcorpus and the Hungarian National Corpus in 600 dimensions with a cut-off of 10 words.
-- [Szeged word vectors](http://www.inf.u-szeged.hu/~szantozs/fasttext/) Word embeddings (word2vec & fasttext) for Hungarian trained on 4.3 billion tokens
+- [Szeged word vectors](https://www.inf.u-szeged.hu/~szantozs/fasttext/) Word embeddings (word2vec & fasttext) for Hungarian trained on 4.3 billion tokens
 - [questions-words-hu](http://corpus.nytud.hu/efnilex-vect/data/questions-words-hu.txt) Hungarian analogical questions following Mikolov et al. 
 - [Conceptnet Numberbatch](https://github.com/commonsense/conceptnet-numberbatch) Conceptnet numbermatch multi- and cross-lingual semantic word embeddings
 - [Multi-sense word embeddings](https://hlt.bme.hu/en/publ/makrai17)
@@ -180,10 +180,10 @@ Notations:
 
 ### LLM Benchmarks
 
-- [HuLU evaluate](https://github.com/nytud/HuLU-evaluate) is a library for evaluating and training language models on Hungarian tasks within the HuLU benchmark.
+- [HuLU evaluate](https://github.com/nytud/HuLU/tree/master/evaluate) is a library for evaluating and training language models on Hungarian tasks within the HuLU benchmark.
 - [OpenHuEval](https://github.com/opendatalab/OpenHuEval) is an LLM benchmark focusing on the Hungarian language.
 - [(M)MTEB](https://huggingface.co/spaces/mteb/leaderboard) is a dataset and leaderboard comparing 100+ text embedding models across 1000+ languages including Hungarian.
-- [EuroEval](https://euroeval.com/leaderboards/Monolingual/hungarian/#__tabbed_1_1) is a language model benchmarking framework that supports evaluating all types of language models out there: encoders, decoders, encoder-decoders, base models, and instruction tuned models. 
+- [EuroEval](https://euroeval.com/leaderboards/Monolingual/hungarian#__tabbed_1_1) is a language model benchmarking framework that supports evaluating all types of language models out there: encoders, decoders, encoder-decoders, base models, and instruction tuned models. 
 
 ## Datasets
 
@@ -197,19 +197,19 @@ Notations:
 - [Hungarian Webcorpus 2.0](https://hlt.bme.hu/en/resources/webcorpus2) The new version of the Hungarian Webcorpus was built from Common Crawl and includes a little over 9 billion words.
 - [OSCAR](https://traces1.inria.fr/oscar/) is a huge multilingual corpus obtained by language classification and filtering of the Common Crawl corpus using the goclassy architecture. (2339 million unique words)
 - [emLam](https://hlt.bme.hu/en/resources/emLam) A Language Modeling Benchmark Corpus for Hungarian, similar to the One Billion Word corpus (Chelba, 2014) for English.
-- [Leipzig corpora](http://wortschatz.uni-leipzig.de/en/download/) contains randomly selected sentences in the language of the corpus and are available in sizes from 10,000 sentences up to 1 million sentences. The sources are either newspaper texts or texts randomly collected from the web.
-- [web2corpus](http://ufal.mff.cuni.cz/w2c) Automatically created multilingual web corpus
-- [CC-100](http://data.statmt.org/cc-100) Monolingual Datasets from Web Crawl Data
+- [Leipzig corpora](https://wortschatz.uni-leipzig.de/en/download/) contains randomly selected sentences in the language of the corpus and are available in sizes from 10,000 sentences up to 1 million sentences. The sources are either newspaper texts or texts randomly collected from the web.
+- [web2corpus](https://ufal.mff.cuni.cz/w2c) Automatically created multilingual web corpus
+- [CC-100](https://data.statmt.org/cc-100) Monolingual Datasets from Web Crawl Data
 
 #### Annotated corpora
 
-- [CoNLL 2017: Automatically Annotated Raw Texts and Word Embeddings](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-1989) Automatic segmentation, tokenization and morphological and syntactic annotations of raw texts in 45 languages, generated by [UDPipe](http://ufal.mff.cuni.cz/udpipe), together with word embeddings of dimension 100 computed from lowercased texts by [word2vec](https://code.google.com/archive/p/word2vec/)
+- [CoNLL 2017: Automatically Annotated Raw Texts and Word Embeddings](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-1989) Automatic segmentation, tokenization and morphological and syntactic annotations of raw texts in 45 languages, generated by [UDPipe](https://ufal.mff.cuni.cz/udpipe), together with word embeddings of dimension 100 computed from lowercased texts by [word2vec](https://code.google.com/archive/p/word2vec/)
 - [OpinHuBank](https://sites.google.com/site/mmihaltz/resources) OpinHuBank is a human-annotated corpus to aid the research of opinion mining and sentiment analysis in Hungarian
-- [HunEmPoli](https://github.com/poltextlab/HunEmPoli_corpus) corpus was built using pre-agenda speeches of the Hungarian National Assembly (2014-2018) and consists 764008 tokens/36475 sentences. Aspect level emotion annotation, with 39840 identified emotions, in addition, marked the keywords that evoked the emotion.
-- [The Hungarian forum corpus for Opinion Mining](http://rgai.inf.u-szeged.hu/index.php?lang=en&page=corpus_forum) This database is the first one dedicated to Opinion Mining in Hungarian. The data for further processing were gathered from the posts of the forum topic of the Hungarian government portal dealing with the referendum about dual citizenship.
-- [Hungarian sentiment corpus (HuSent)](https://rgai.inf.u-szeged.hu/node/363) is a deeply annotated Hungarian sentiment corpus. It is composed of Hungarian opinion texts written about different types of products, published on the homepage [http://divany.hu/]
-- [Szeged Treebank](http://rgai.inf.u-szeged.hu/index.php?lang=en&page=SzegedTreebank) The Szeged Treebank is the largest fully manually annotated treebank of the Hungarian language
-- [Szeged Dependency Treebank](http://rgai.inf.u-szeged.hu/index.php?lang=en&page=dependency) The Szeged Dependency Treebank is a dependency-tree format version of the Szeged Treebank.
+- [HunEmPoli](https://github.com/uveges/HunEmPoli_corpus) corpus was built using pre-agenda speeches of the Hungarian National Assembly (2014-2018) and consists 764008 tokens/36475 sentences. Aspect level emotion annotation, with 39840 identified emotions, in addition, marked the keywords that evoked the emotion.
+- [The Hungarian forum corpus for Opinion Mining](https://rgai.inf.u-szeged.hu/index.php?lang=en&page=corpus_forum) This database is the first one dedicated to Opinion Mining in Hungarian. The data for further processing were gathered from the posts of the forum topic of the Hungarian government portal dealing with the referendum about dual citizenship.
+- [Hungarian sentiment corpus (HuSent)](https://rgai.inf.u-szeged.hu/node/363) is a deeply annotated Hungarian sentiment corpus. It is composed of Hungarian opinion texts written about different types of products, published on the homepage [https://divany.hu/]
+- [Szeged Treebank](https://rgai.inf.u-szeged.hu/index.php?lang=en&page=SzegedTreebank) The Szeged Treebank is the largest fully manually annotated treebank of the Hungarian language
+- [Szeged Dependency Treebank](https://rgai.inf.u-szeged.hu/index.php?lang=en&page=dependency) The Szeged Dependency Treebank is a dependency-tree format version of the Szeged Treebank.
 - [Universal Dependencies](https://github.com/UniversalDependencies/UD_Hungarian)
 - [Hungarian Named Entity Corpora](https://rgai.inf.u-szeged.hu/node/130) The Named Entity Corpus for Hungarian is a subcorpus of the Szeged Treebank, which contains full syntactic annotations done manually by linguist experts.
 - [KorKor Pilotcorpus](https://github.com/vadno/korkor_pilot) is a gold standard corpus consisting of multiple layers such as dependency parse and coreference annotations
@@ -218,8 +218,8 @@ Notations:
 - [hunNERwiki](http://hlt.sztaki.hu/resources/hunnerwiki.html) a silver standard corpus for Hungarian Named Entity Recognition
 - [Mazsola database](http://corpus.nytud.hu/isz/) contains 28M sentences from the MNSZ1 corpus annotated with shallow syntactic analysis 
 - [PrevCons](https://github.com/kagnes/prevcons) is a database of 21K hapaxes of verbs with verbal prefixes
-- [Hungarian word sense disambiguated corpus](http://rgai.inf.u-szeged.hu/index.php?lang=en&page=corpus_hunwsd) containing 39 suitable word form samples for the purpose of word sense disambiguation
-- [HunLearner](http://rgai.inf.u-szeged.hu/index.php?lang=en&page=hunlearner) is a learners' corpus of Hungarian containing written data from 35 students majoring in Hungarian studies at the University of Zagreb, Croatia. Texts were morphologically and syntactically analyzed by the magyarlanc tool.
+- [Hungarian word sense disambiguated corpus](https://rgai.inf.u-szeged.hu/index.php?lang=en&page=corpus_hunwsd) containing 39 suitable word form samples for the purpose of word sense disambiguation
+- [HunLearner](https://rgai.inf.u-szeged.hu/index.php?lang=en&page=hunlearner) is a learners' corpus of Hungarian containing written data from 35 students majoring in Hungarian studies at the University of Zagreb, Croatia. Texts were morphologically and syntactically analyzed by the magyarlanc tool.
 - [HuLU](https://github.com/nytud/HuLU) Hungarian Language Understanding Benchmark Kit
    - [HuCOLA](https://github.com/nytud/HuCOLA) Hungarian Corpus of Linguistic Acceptability
    - [HuCoPA](https://github.com/nytud/HuCoPA) Hungarian Choice of Plausible Alternatives Corpus
@@ -238,20 +238,20 @@ Notations:
 #### Parallel corpora
 
 - [Hunglish Corpus](http://mokk.bme.hu/resources/hunglishcorpus/) The Hunglish Corpus is a free sentence-aligned Hungarian-English parallel corpus of about 120 million words in 4 million sentence pairs. 
-- [SzegedParallel](http://rgai.inf.u-szeged.hu/index.php?lang=en&page=corpus_paralell) The English-Hungarian parallel corpus contains texts selected on the basis of grammatical and translational criteria.
-- [HunOr](http://rgai.inf.u-szeged.hu/index.php?lang=en&page=corpus_hunor) A Hungarian-Russian Parallel corpus comprises approximately 800 thousand words.
+- [SzegedParallel](https://rgai.inf.u-szeged.hu/index.php?lang=en&page=corpus_paralell) The English-Hungarian parallel corpus contains texts selected on the basis of grammatical and translational criteria.
+- [HunOr](https://rgai.inf.u-szeged.hu/index.php?lang=en&page=corpus_hunor) A Hungarian-Russian Parallel corpus comprises approximately 800 thousand words.
 - [CoNLL 2017 Shared Task Hungarian data](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-1989) Automatic segmentation, tokenization and morphological and syntactic annotations of raw texts from the Common Crawl
 - [CSS10](https://github.com/Kyubyong/css10) A Collection of Single Speaker Speech Datasets for 10 Languages including Hungarian
 - [Hungarian-Russian Prisoner of War Database](https://github.com/dlt-rilmta/hadifogoly-adatbazis)
 - [TED talks transcripts parallel corpus](https://www.kaggle.com/db189ab19e7dfeda/ted-talks-transcripts-parallel-corpus) sentence aligned TED talks including Hungarian.
 - [TaPaCo Corpus](https://zenodo.org/record/3707949) is a paraphrase corpus for 73 languages, including Hungarian, extracted from the Tatoeba database
-- [Duolingo STAPLE](http://sharedtask.duolingo.com/) is a dataset of comprehensive accepted translations from English to 5 different languages, including Hungarian
-- [PPDB](http://paraphrase.org/#/download) is an automatically extracted database containing millions of paraphrases in 16 different languages, including Hungarian
-- [OpenSubtitles Corpus](https://opus.nlpl.eu/OpenSubtitles/corpus/version/OpenSubtitles) contains movie subtitles and alignments for 62 languages, including Hungarian
-- [OPUS Corpus][https://opus.nlpl.eu] is a growing collection of translated texts from the web
+- [Duolingo STAPLE](https://sharedtask.duolingo.com/) is a dataset of comprehensive accepted translations from English to 5 different languages, including Hungarian
+- [PPDB](https://web.archive.org/web/20231227021302/http://paraphrase.org/#/download) is an automatically extracted database containing millions of paraphrases in 16 different languages, including Hungarian
+- [OpenSubtitles Corpus](https://opus.nlpl.eu/legacy/OpenSubtitles/) contains movie subtitles and alignments for 62 languages, including Hungarian
+- [OPUS Corpus](https://opus.nlpl.eu) is a growing collection of translated texts from the web
 - [MASSIVE dataset](https://github.com/alexa/massive) is a parallel dataset of > 1M utterances across 51 languages with annotations for the Natural Language Understanding tasks of intent prediction and slot annotation.
 - [PWS](https://github.com/nytud/PWS) is a parallel collection of the Winograd schemas in seven languages (including Hungarian)
-- [HunSimpleNews](https://huggingface.co/datasets/ELTE-DH/HunSimpleNews is the first Hungarian text simplification corpus that includes the standard and simplified versions of whole documents. 
+- [HunSimpleNews](https://huggingface.co/datasets/ELTE-DH/HunSimpleNews) is the first Hungarian text simplification corpus that includes the standard and simplified versions of whole documents. 
 - [HunSum-1](https://huggingface.co/datasets/SZTAKI-HLT/HunSum-1) is a Hungarian-language dataset containing over 1.1M unique news articles with lead and other metadata. The dataset contains articles from 9 major Hungarian news websites.
 - [HunSum-2-abstractive](https://huggingface.co/datasets/SZTAKI-HLT/HunSum-2-abstractive) and [HunSum-2-extractive](https://huggingface.co/datasets/SZTAKI-HLT/HunSum-2-extractive) are Hungarian-language datasets containing over 1.8M unique news articles with lead and other metadata. The dataset contains articles from 27 major Hungarian news websites.
 - [parallelbible](https://github.com/nytud/parallelbible) The Parallel Bible Corpus is based on the historical text material of the Old Hungarian Corpus, as its database contains all of the Old and Middle Hungarian Bible translations which are available in this corpus. The King James Bible and three Finnish translations are included in the database as well.
@@ -261,10 +261,10 @@ Notations:
 
 - [morphdb.hu](http://mokk.bme.hu/resources/morphdb-hu/) is an open source morphological database of Hungarian, consisting of a lexicon and morphological grammar that are based on well-founded theoretical decisions.
 - [huwn](https://github.com/mmihaltz/huwn) Hungarian Wordnet
-- [Hungarian Sentiment Lexicon](http://opendata.hu/dataset/hungarian-sentiment-lexicon) The dictionaries were manually created on the basis of Wordnet-Affect lexicons.
-- [poltextLAB's sentiment lexicons](https://github.com/poltextlab/sentiment_hun) Highly accurate sentiment lexicons for analysing news data
+- [Hungarian Sentiment Lexicon](https://opendata.hu/dataset/hungarian-sentiment-lexicon) The dictionaries were manually created on the basis of Wordnet-Affect lexicons.
+- [poltextLAB's sentiment lexicons](https://web.archive.org/web/20250428042259/https://github.com/poltextlab/sentiment_hun) Highly accurate sentiment lexicons for analysing news data
 - [4lang](https://github.com/kornai/4lang) Concept dictionary using Eilenberg machines
-- [Named Entity lists for Hungarian](https://rgai.sed.hu/file/69#overlay-context=file/68)
+- [Named Entity lists for Hungarian](https://rgai.inf.u-szeged.hu/file/69#overlay-context=file/68)
 - [Mazsola ISZ](http://corpus.nytud.hu/isz/) lists 500K verb frames extracted from the Mazsola database
 - [Manocska](https://github.com/ppke-nlpg/manocska) merges verb frames existing databases
 - [PrevLex](https://github.com/kagnes/prevlex) List of phrasel verbs
@@ -275,14 +275,14 @@ Notations:
 
 - [Wikipedia dumps](https://dumps.wikimedia.org/huwiki/)
 - [Wikidata dumps](https://www.wikidata.org/wiki/Wikidata:Database_download)
-- [DBPedia dumps](http://downloads.dbpedia.org/current/core-i18n/hu/)
+- [DBPedia dumps](http://downloads.dbpedia.org/3.9/hu/)
 - [huwn.rdf](https://github.com/mmihaltz/huwn.rdf) Hungarian WordNet in RDF format for the Linked Open Data cloud
-- [Conceptnet](http://conceptnet.io/) An open, multilingual knowledge graph (with partial Hungarian support)
+- [Conceptnet](https://conceptnet.io/) An open, multilingual knowledge graph (with partial Hungarian support)
 
 ### Geo data
 
 - [OpenStreetMap(OSM)](https://www.openstreetmap.org/)
-  In [Hungary](http://download.geofabrik.de/europe/hungary.html) the [`name`](https://wiki.openstreetmap.org/wiki/Key:name) keys, [otherwise](https://planet.openstreetmap.org/) the [\*name:hu](https://taginfo.openstreetmap.org/search?q=name%3Ahu)
+  In [Hungary](https://download.geofabrik.de/europe/hungary.html) the [`name`](https://wiki.openstreetmap.org/wiki/Key:name) keys, [otherwise](https://planet.openstreetmap.org/) the [\*name:hu](https://taginfo.openstreetmap.org/search?q=name%3Ahu)
 - [Natural-earth-vector](https://github.com/nvkelso/natural-earth-vector) ([`name_hu`](https://github.com/nvkelso/natural-earth-vector/blob/master/packages/Natural_Earth_quick_start/LOCALIZATION.md) imported from wikidata labels)
 - [Who's On First](https://whosonfirst.org/) is a gazetteer of places (with [Hungarian administrative places](https://github.com/whosonfirst-data/whosonfirst-data-admin-hu) )
 
@@ -307,9 +307,9 @@ Notations:
 
 ### Institutes
 
-- [Natural Language Processing Group of the Pázmány Péter Catholic University Faculty of Information Tehnology and Bionics](http://nlpg.itk.ppke.hu/)
-- [Department of Language Technology and Applied Linguistics, RIL-MTA](http://www.nytud.hu/depts/delts/index.html)
-- [Human Language Technology Research Group of the Budapest University of Technology and Economics](http://hlt.bme.hu/en/)
+- [Natural Language Processing Group of the Pázmány Péter Catholic University Faculty of Information Tehnology and Bionics](https://nlpg.itk.ppke.hu/)
+- [Department of Language Technology and Applied Linguistics, RIL-MTA](https://nytud.hu/kutatocsoport/nyelvtechnologiai-kutatocsoport)
+- [Human Language Technology Research Group of the Budapest University of Technology and Economics](https://hlt.bme.hu/en/)
 - [Natural Language Processing Group of the SzegedUniversity](https://rgai.inf.u-szeged.hu/nlp)
 - [BME - Laboratory of Speech Acoustics](https://www.tmit.bme.hu/lsa)
 
@@ -333,9 +333,9 @@ Notations:
 
 ## Communities
 
-- [Kereső világ](http://kereses.blog.hu/) Official blog of Precognox Inc.
-- [Hungarian NLP Meetup](https://www.meetup.com/Hungarian-nlp/)
-- [Deep Learning Reading Seminar Meetup](https://www.meetup.com/Budapest-Deep-Learning-Reading-Seminar/)
+- [Kereső világ](https://kereses.blog.hu/) Official blog of Precognox Inc.
+- [Hungarian NLP Meetup](https://www.meetup.com/hungarian-nlp/)
+- [Deep Learning Reading Seminar Meetup](https://www.meetup.com/budapest-deep-learning-reading-seminar/)
 - [HuNLP Slack](https://hunlp.slack.com/)
 
 ## Other Hungarian related resource collections
