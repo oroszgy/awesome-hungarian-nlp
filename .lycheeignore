@@ -1,0 +1,5 @@
+# Hosts that answer 403/503 to automated clients. They work in a browser,
+# so excluding them keeps the report focused on links that are really broken.
+^https?://hunlp\.slack\.com/
+^https?://nytud\.hu/
+^https?://wiki\.openstreetmap\.org/
