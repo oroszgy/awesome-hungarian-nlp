@@ -345,7 +345,7 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 - [Wikipedia dumps](https://dumps.wikimedia.org/huwiki/)
 - [Wikidata dumps](https://www.wikidata.org/wiki/Wikidata:Database_download)
-- [DBPedia dumps](https://databus.dbpedia.org/dbpedia/collections/core-i18n)
+- [DBPedia dumps](https://www.dbpedia.org/resources/)
 - [huwn.rdf](https://github.com/mmihaltz/huwn.rdf) Hungarian WordNet in RDF format for the Linked Open Data cloud
 - [Conceptnet](https://conceptnet.io/) An open, multilingual knowledge graph (with partial Hungarian support)
 
@@ -417,7 +417,7 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 - [Kereső világ](https://kereses.blog.hu/) Official blog of Precognox Inc.
 - [Hungarian NLP Meetup](https://www.meetup.com/hungarian-nlp/)
 - [Deep Learning Reading Seminar Meetup](https://www.meetup.com/budapest-deep-learning-reading-seminar/)
-- [HuNLP Slack](https://hunlp.slack.com/)
+- [HuNLP Slack](https://hunlp.slack.com/) Invite required.
 
 ## Other Hungarian related resource collections
 
