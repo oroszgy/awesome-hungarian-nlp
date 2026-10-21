@@ -106,7 +106,7 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 - [huNLP](https://github.com/oroszgy/hunlp) 👌💯 An experimental unified Java and REST API for magyarlanc and szegedNER
 - [hunlp-GATE](https://github.com/dlt-rilmta/hunlp-GATE) 💯 GATE plugin containing Hungarian NLP tools as GATE processing resources
 - [Trendminer Hungarian Processing Pipeline](https://github.com/mmihaltz/trendminer-hunlp) 🚀 Hungarian NLP pipeline for social media text analysis (TrendMiner project)
-- [Google Syntaxnet](https://research.googleblog.com/2017/03/an-upgrade-to-syntaxnet-new-models-and.html) 🚀💯🏛️ Neural Models of Syntax
+- [Google Syntaxnet](https://web.archive.org/web/2020/https://research.googleblog.com/2017/03/an-upgrade-to-syntaxnet-new-models-and.html) 🚀💯🏛️ Neural Models of Syntax
 - [UDPipe](https://ufal.mff.cuni.cz/udpipe) 👌🚀💯 is a trainable pipeline for tokenization, tagging, lemmatization and dependency parsing of CoNLL-U files
 - [polyglot](https://polyglot.readthedocs.io/en/latest/index.html) 👌🚀💯🏛️ is a natural language pipeline that supports massive multilingual applications.
 - [emtsv](https://github.com/dlt-rilmta/emtsv) 👌💯 is a text processing system with inter-module communication via tsv + REST API
