@@ -25,6 +25,7 @@
 1. [Language models](#language-models)
    1. [Word embeddings](#word-embeddings)
    1. [Transformer models](#transformer-models)
+   1. [Speech models](#speech-models)
    1. [Large Language models](#large-language-models)
    1. [LLM Benchmarks](#llm-benchmarks)
 1. [Datasets](#datasets)
@@ -73,6 +74,7 @@ Notations:
 - [lara-hungarian-nlp](https://github.com/sedthh/lara-hungarian-nlp) 👌🚀💯 LARA is a lightweight Python NLP library for ChatBots in Hungarian.
 - [Lemmagen](https://kt.ijs.si/software/lemmagen/) 👌🚀💯 project aims at providing standardized open source multilingual platform for lemmatisation. ([Python package for v3](https://pypi.org/project/lemmagen3/) | [C# project for v3](https://github.com/oroszgy/lemmagen3))
 - [Simplemma](https://github.com/adbar/simplemma) 👌🚀💯 is a simple multilingual lemmatizer for Python
+- [SampoNLP](https://github.com/AragonerUA/SampoNLP) 👌🚀💯 Unsupervised morpheme discovery for Uralic languages including Hungarian, with a Rust core
 
 ### PoS / Morphological taggers
 
@@ -87,6 +89,8 @@ Notations:
 - [SzegedNER](https://rgai.inf.u-szeged.hu/node/109) 👌🚀💯 Named Entity Recognition tool for Hungarian and English
 - [DBpedia Spotlight](https://github.com/dbpedia-spotlight/dbpedia-spotlight) 👌🚀💯  DBpedia Spotlight is a tool for automatically annotating mentions of DBpedia resources in text. [Docker image](https://hub.docker.com/r/dbpedia/dbpedia-spotlight)
 - [emBERT](https://github.com/DavidNemeskey/emBERT) 👌🚀💯 is an emtsv module for pre-trained Transfomer-based models. It provides tagging models based on Huggingface's transformers package.
+- [kmdb NER](https://huggingface.co/K-Monitor/kmdb_ner_v5) 👌🚀💯 Hungarian NER for people, organisations and places in news, separating entities relevant to the article's case from mere mentions
+- [ModernBERT POS](https://huggingface.co/GaborMadarasz/ModernBERT-base-hungarian-POS) 👌🚀💯 Hungarian part-of-speech tagger for long texts (8K context, 87.6% on Szeged UD)
 
 ### Pipelines with Hungarian NLP components
 
@@ -120,6 +124,9 @@ Notations:
 - SZTAKI HunSum-2 models 👌🚀💯 [mT5-base-HunSum-2](https://huggingface.co/SZTAKI-HLT/mT5-base-HunSum-2), [Bert2Bert-HunSum-2](https://huggingface.co/SZTAKI-HLT/Bert2Bert-HunSum-2)
 - [HuAMR](https://github.com/botondbarta/HuAMR) 👌💯 The first Hungarian Abstract Meaning Representation dataset and a suite of LLM-based AMR parsers
 - [poltextLAB's models](https://huggingface.co/collections/poltextlab/emotions-babel-672b54c08540c5e11ecb9983) emotion classification models using 6-label and 9-label codebooks.
+- [kmdb news classifier](https://huggingface.co/K-Monitor/kmdb_classification_hubert_v5) 👌🚀💯 Decides whether a Hungarian news article reports a corruption, public-spending or transparency case (F1 0.938)
+- [toxic-hubert](https://huggingface.co/RabidUmarell/toxic-hubert) 👌💯 Hungarian toxicity and hate-speech classifier fine-tuned from huBERT (AGPL-3.0)
+- [Babel Machine](https://babelmachine.org/) 🚀 poltextLAB's multilingual policy-topic, emotion and NER classification platform, with an [open-source codebase](https://huggingface.co/poltextlab/babel-machine) available on request
 
 
 ### Other
@@ -134,6 +141,9 @@ Notations:
 - [syntax-augmentation-nmt](https://github.com/attilanagy234/syntax-augmentation-nmt) 🚀💯 Syntax-based data augmentation for Hungarian-English machine translation 
 - [anonymizer_hu](https://github.com/nytud/anonymizer_hu) 🚀💯 The Hungarian anonymization tool for CURLICAT
 - [WebArticleCurator](https://github.com/ELTE-DH/WebArticleCurator) 👌🚀💯 News article text extraction and boilerplate removal (LGPL-3.0)
+- [Kalliopé](https://github.com/aporkolab/Kalliope) 👌🚀💯 Hungarian verse scansion, metre and rhyme-scheme analyzer with web demo, Docker image and REST API
+- [ocr-T5](https://huggingface.co/GaborMadarasz/ocr-T5) 👌🚀💯 Hungarian post-OCR correction model based on mT5-large
+- [PP-OCRv6 Hungarian antiqua](https://huggingface.co/GaborMadarasz/paddleocr-ppocr6-mek-finetuned) 👌🚀💯 OCR model for 1880–1930 Hungarian antiqua typography, tuned for ő and ű
 
 
 ## Language models
@@ -160,6 +170,19 @@ Notations:
 - [`huBERT`](https://hlt.bme.hu/en/resources/hubert) Hungarian BERT base models trained on Webcorpus 2.0 and the Hungarian Wikipedia
 - [HIL* Transformer models](https://hilanco.github.io) Pretrained transformer models provided by HILANCO
 - [PULI-BERT-Large](https://huggingface.co/NYTK/PULI-BERT-Large) is a Hungarian BERT large model based on MegatronBERT
+- [Hungarian ModernBERT-base](https://huggingface.co/GaborMadarasz/ModernBERT-base-hungarian) ModernBERT-base pretrained from scratch on ~1B tokens of filtered Hungarian text, 8K context
+- [Hun ModernBERT Large](https://huggingface.co/magyar-nlp-szine-java/hun-modernBERT-large-1k) 390M-parameter ModernBERT-large MLM pretrained on Hungarian text
+- [huT5](https://huggingface.co/GaborMadarasz/hut5-base) Hungarian-English T5 with a 30K vocabulary (244M parameters, 42% of mT5-base)
+
+### Speech models
+
+- [w2v-BERT 2.0 Hungarian](https://huggingface.co/GaborMadarasz/w2v-bert-2.0-hungarian-CV24.0) Hungarian ASR fine-tune of w2v-BERT 2.0, 5.65% WER on Common Voice 24
+- [wav2vec2 MMS-1B Hungarian](https://huggingface.co/GaborMadarasz/wav2vec2-large-mms-1b-hungarian) CC0 Hungarian ASR on top of MMS-1B, 19.9% WER on FLEURS
+- [Whisper large-v3 Hungarian LoRA](https://huggingface.co/Maxdorger29/whisper-large-v3-hungarian-lora) LoRA fine-tune packaged for faster-whisper/CTranslate2, reducing Hungarian character and name errors
+- [F5-TTS Hungarian](https://huggingface.co/Maxdorger29/f5-tts-hungarian) Hungarian F5-TTS with zero-shot voice cloning from 5-15 seconds of reference audio
+- [Diana Hungarian TTS](https://huggingface.co/legekka/diana-hungarian-tts-vits) Single-speaker VITS TTS trained on the KTH Hungarian speech dataset
+- [MMS TTS Hungarian](https://huggingface.co/facebook/mms-tts-hun) Hungarian checkpoint of Meta's Massively Multilingual Speech TTS
+- [Gemma-3-270M Hungarian ITN](https://huggingface.co/GaborMadarasz/gemma_3_270m_ITN_finetune_16bit) Inverse text normalization of numbers, dates and units in Hungarian ASR output
 
 ### Large Language models
 
@@ -183,6 +206,7 @@ Notations:
 - [OpenEuroLLM-Hungarian](https://ollama.com/jobautomation/OpenEuroLLM-Hungarian) is a fine-tuned version of Gemma 3 optimized for Hungarian language responses.
 - [Racka 4B](https://huggingface.co/elte-nlp/Racka-4B) is a continually pretrained large language model designed to bridge the resource gap between Hungarian and high-resource languages ([GGUF](https://huggingface.co/elte-nlp/Racka-4B-GGUF))
 - [MangaliCa](https://huggingface.co/Obscure-Entropy/MangaliCa) is the first publicly available Hungarian–English bilingual vision–language model designed for image captioning and image–text retrieval.
+- [HunMamba2-780M](https://huggingface.co/magyar-nlp-szine-java/mamba2-780-pretrained) 780M Hungarian Mamba2 language model trained on Europarl and FineWeb-HQ
 
 ### LLM Benchmarks
 
@@ -196,6 +220,7 @@ Notations:
 - [HuBoolQ](https://huggingface.co/datasets/NYTK/HuBoolQ) is a Hungarian machine-translated version of BoolQ, keeping the original English, the translation and an optional corrected variant.
 - [Hungarian Riddles Benchmark](https://huggingface.co/datasets/boczkakaroly/hungarian-riddles-benchmark) is a riddle-solving benchmark for Hungarian LLMs.
 - [Jina Hungarian DocQA](https://huggingface.co/datasets/jinaai/hungarian_doc_qa_beir) is a Hungarian document question answering retrieval benchmark in BEIR format.
+- [HuHotpotQA](https://huggingface.co/datasets/GaborMadarasz/HuHotpotQA_8k) 2,259 Hungarian multi-hop question answering examples with supporting facts
 
 ## Datasets
 
@@ -212,6 +237,12 @@ Notations:
 - [Leipzig corpora](https://wortschatz.uni-leipzig.de/en/download/) contains randomly selected sentences in the language of the corpus and are available in sizes from 10,000 sentences up to 1 million sentences. The sources are either newspaper texts or texts randomly collected from the web.
 - [web2corpus](https://ufal.mff.cuni.cz/w2c) Automatically created multilingual web corpus
 - [CC-100](https://data.statmt.org/cc-100) Monolingual Datasets from Web Crawl Data
+- [Hungarian fanfiction corpus](https://huggingface.co/datasets/magyar-nlp-szine-java/fanfic) 135M tokens of Hungarian fanfiction split into semantic chunks
+- [Hungarian Reddit corpus](https://huggingface.co/datasets/magyar-nlp-szine-java/reddit) 1.07M Hungarian Reddit conversation chunks, 42M tokens
+- [Hungarian YouTube comments](https://huggingface.co/datasets/magyar-nlp-szine-java/youtube) 630K Hungarian YouTube comment chunks, 21M tokens
+- [hogyankell](https://huggingface.co/datasets/magyar-nlp-szine-java/hogyankell) 2.7K Hungarian how-to articles from hogyankell.hu
+- [Hungarian Wikipedia 2025-05-11](https://huggingface.co/datasets/GaborMadarasz/huwiki-20250511) 800K Hungarian Wikipedia articles, 238M tokens, as parquet
+- [toxic_oscar_hu](https://huggingface.co/datasets/GaborMadarasz/toxic_oscar_hu) 453M tokens of toxic Hungarian OSCAR text for toxicity training and evaluation
 
 #### Annotated corpora
 
@@ -248,11 +279,18 @@ Notations:
 - [HAPP](https://github.com/nytud/HAPP) is the Hungarian translation of the Definite Pronoun Resolution Dataset
 - [HunSum-2-abstractive](https://huggingface.co/datasets/SZTAKI-HLT/HunSum-2-abstractive) and [HunSum-2-extractive](https://huggingface.co/datasets/SZTAKI-HLT/HunSum-2-extractive) are Hungarian news summarization datasets built from 1.8M articles from 27 news sites
 - [HunSimpleNews](https://huggingface.co/datasets/ELTE-DH/HunSimpleNews) is the first Hungarian text simplification corpus, containing the standard and simplified versions of whole documents
-- [HuAMR](https://huggingface.co/datasets/SZTAKI-HLT/HuAMR) is the first Hungarian Abstract Meaning Representation corpus, with 43,810 sentence-AMR pairs
+- [HuAMR](https://huggingface.co/datasets/SZTAKI-HLT/HuAMR) is the first Hungarian Abstract Meaning Representation corpus, with 43,810 sentence-AMR pairs ([Llama-3.2-1B-HuAMR](https://huggingface.co/SZTAKI-HLT/Llama-3.2-1B-HuAMR), [mT5-large-HuAMR](https://huggingface.co/SZTAKI-HLT/mT5-large-HuAMR))
 - [Hungarian Dialogues](https://huggingface.co/datasets/gedeonmate/Hungarian-Dialogues-text) is a Hungarian dialogue corpus in text form
 - [HU_Res_of_Parl_2025_CAP](https://huggingface.co/datasets/poltextlab/HU_Res_of_Parl_2025_CAP) provides CAP annotations for Hungarian parliamentary speeches from 2025
 - [Hungarian Folk Song Corpus](https://github.com/ELTE-DH/folk-song-corpus) is a corpus of Hungarian folk songs in TEI XML
 - [Hungarian Rhyming Dictionary](https://github.com/ELTE-DH/rhyming-dictionary) is an automatically generated rhyming dictionary of Hungarian canonical poetry
+- [K-Monitor press database](https://huggingface.co/datasets/K-Monitor/kmdb_base) 66K Hungarian news articles with curated person, institution and place annotations (CC-BY-SA-4.0)
+- [kmdb news classification](https://huggingface.co/datasets/K-Monitor/kmdb_classification) 142K Hungarian news articles labelled for corruption and public-spending relevance
+- [Hungarian Toxic Comments](https://huggingface.co/datasets/RabidUmarell/hungarian-toxic-comments) 654 manually annotated Hungarian comments scored on five toxicity dimensions
+- [Hungarian Reddit conversation threads](https://huggingface.co/datasets/RabidUmarell/hu_reddit_conversation_threads) 72K Hungarian Reddit threads with toxicity labels
+- [huReddit toxicity](https://huggingface.co/datasets/RabidUmarell/hureddit-toxicity) Large Hungarian Reddit dataset labelled for toxicity
+- [Hungarian coreference corpus](https://huggingface.co/datasets/RabidUmarell/coref-combined) Hungarian coreference chains combined from existing corpora
+- [vicc-korpusz](https://huggingface.co/datasets/RabidUmarell/vicc-korpusz) 23K Hungarian jokes with category and rating
 
 #### Parallel corpora
 
@@ -315,6 +353,8 @@ Notations:
 ### Other
 
 - [alpaca_hu_2k](https://huggingface.co/datasets/NYTK/alpaca_hu_2k) is the Hungarian translation of a subset of the Stanford Alpaca prompts.
+- [Hungarian synthetic OCR datasets](https://huggingface.co/datasets/GaborMadarasz/synthetic_OCR_dataset_v2) 200K+ generated Hungarian image-text pairs focused on accented characters, and a 205K-pair [MEK variant](https://huggingface.co/datasets/GaborMadarasz/synthetic_OCR_dataset_MEK) mimicking Magyar Elektronikus Könyvtár book typography
+- [gsm8k_hungarian_generated_CoT](https://huggingface.co/datasets/GaborMadarasz/gsm8k_hungarian_generated_CoT) Hungarian GSM8K with generated chain-of-thought solutions
 
 ## Academy
 
@@ -354,6 +394,7 @@ Notations:
 - [Mini NLP Course by the Center Of Digital Humanities](https://pim.hu/hu/digitalis-bolcseszeti-kozpont/nyelvtechnologia-kurzus)
 - [Tutorial on Text Mining for Hungarian](https://github.com/oroszgy/hungarian-text-mining-workshop)
 - [ai-notebooks](https://github.com/nytud/ai-notebooks) Educational notebooks on language models from NYTK
+- [HAIO – Hungarian AI Olympiad](https://github.com/hungarian-ai-olympiad/HAIO-Hungarian-AI-Olympiad) Tasks, solutions and teaching materials from Hungary's national AI olympiad, including Hungarian NLP tasks
 
 ## Communities
 
@@ -367,3 +408,4 @@ Notations:
 - [EENLP](https://github.com/altsoph/EENLP) The broad index of NLP resources for Eastern European languages.
 - [European Language Grid](https://live.european-language-grid.eu)
 - [Hugging Face Datasets (filtered for Hungarian)](https://huggingface.co/datasets?language=language:hu)
+- [Awesome LLM Benchmarks HU](https://github.com/latentsubspace/awesome-llm-benchmarks-hu) Curated index of Hungarian and financial sentiment, NER and benchmark datasets
